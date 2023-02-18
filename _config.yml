@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dong An"
 title_separator          : "-"
-name                     : &name "Dong An (安冬)"
+name                     : &name "Dong An"
 description              : &description "Hartree Postdoctoral Fellow at University of Maryland"
 url                      : https://dong-an.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
