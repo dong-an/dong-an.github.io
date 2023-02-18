@@ -84,7 +84,7 @@ author:
   avatar           : "profile_me.png"
   bio              : "Hartree Postdoctoral Fellow at University of Maryland"
   location         : "College Park, MD"
-  employer         :
+  employer         : "https://quics.umd.edu"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SGodtbsAAAAJ&hl=en"
   email            : "dongan@umd.edu"
