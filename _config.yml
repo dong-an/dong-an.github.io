@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Dong An"
-  avatar           : "profile_me.png"
+  avatar           : "profile_me_2.png"
   bio              : "Hartree Postdoctoral Fellow at University of Maryland"
   location         : "College Park, MD"
-  employer         : "https://quics.umd.edu"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SGodtbsAAAAJ&hl=en"
   email            : "dongan@umd.edu"
