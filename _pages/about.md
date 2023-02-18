@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Hartree Postdoctoral Fellow at Joint Center for Quantum Information and Computer Science, University of Maryland. 
+I am currently a Hartree Postdoctoral Fellow at [Joint Center for Quantum Information and Computer Science](https://quics.umd.edu), University of Maryland. 
 
 
 
