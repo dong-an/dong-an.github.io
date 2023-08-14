@@ -5,3 +5,35 @@ permalink: /talks/
 author_profile: true
 ---
 
+* End-to-end applications of quantum linear system and differential equation algorithms
+  * RQS Institute workshop, June 2023
+* Optimal scaling quantum linear-systems solver via discrete adiabatic theorem
+  * SIAM Conference on Optimization (SIAM OP23), June 2023
+* Efficient quantum algorithms for fractional reaction-diffusion equations
+  * SIAM Conference on Dynamical Systems (SIAM DS23), May 2023
+* Quantum algorithms for systems of linear equations and differential equations
+  * Feng Kang Youth Forum on Scientific Computing, Chinese Academy of Sciences, March 2023
+* Power and limitations of quantum algorithms for linear differential equations
+  * Bristol Quantum Information Theory seminar, University of Bristol, March 2023
+* Power and limitations of quantum differential equation algorithms
+  * QuICS Stakeholder Day, February 2023
+* Quantum linear system solvers based on continuous and discrete adiabatic quantum computing
+  * Quantum Computing Seminar at GMU, February 2022
+* Improved complexity estimation for Hamiltonian simulation with Trotter formula
+  * Workshop on Quantum Numerical Linear Algebra, IPAM at UCLA, January 2022
+* Quantum linear system solver based on adiabatic quantum computing
+  * SIAM Conference on Applied Linear Algebra (SIAM LA21), May 2021
+* Adiabatic and preconditioned quantum linear system solvers
+  * Duke Applied Math Seminar, Duke University, April 2021
+* Quantum Linear System Solver based on Adiabatic Quantum Computing
+  * APS March meeting 2021, March 2021
+* Quantum Linear System Solver based on Adiabatic Quantum Computing
+  * SIAM Conference on Computational Science and Engineering (SIAM CSE21), March 2021
+* Quantum adiabatic evolution and applications in computational physics and quantum computing
+  * Berkeley Applied Math Seminar, UC Berkeley, October 2020
+* Quantum linear system solver based on adiabatic quantum computing
+  * Beijing Graduate Student forum on Applied and Computational Math, Peking University, October 2020
+* Parallel transport evolution of time-dependent density functional theory
+  * SIAM Conference on Applied Linear Algebra (SIAM ALA18), May 2018
+* On equilibrium configurations of nematic liquid crystals droplet with anisotropic elastic energy
+  * Applied Math Seminar, Peking University, June 2016
