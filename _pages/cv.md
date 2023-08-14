@@ -16,28 +16,25 @@ Position
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of California, Berkeley, USA
+  * Ph.D. Applied Mathematics, August 2021
+* Peking University, China
+  * B.S. Mathematics, July 2016
+  * B.S. Economics, July 2016
+ 
+Selected Honors/Awards
+======
+* Co-Principal Investigator of NSF Robust Quantum Simulation Seed Grant: End-to-end applications of quantum linear system and differential equation algorithms, 2023-2024
+* QuICS Hartree Fellowship, University of Maryland, 2021
+* Bernard Friedman Memorial Prize in Applied Mathematics, UC Berkeley, 2021
+* Honors Graduation Award, Peking University, 2016
+* Honors Graduation Award in Applied Mathematics, Peking University, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research intern, Google AI Quantum, Summer 2020
   
-Teaching
+Service
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Journal reviewer: Adv. Quantum Technol, Ann. Phys. (Berl.), Commun. Math. Phys, Comput. Phys. Commun, Entropy, J. Comput. Chem, J. Comput. Phys, J. Sci. Comput., New J. Phys, npj Quantum Inf, PRA, PRD, PRE, PRL, PRX, PRX Quantum, Quantum, Quantum Sci. Technol
+* Conference reviewer: ICALP 2023, QIP 2021, QIP 2022, QIP 2023, STOC 2022, TQC 2022, TQC 2023
