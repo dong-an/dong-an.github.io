@@ -13,16 +13,9 @@ author_profile: true
 
 Preprints
 ======
-* Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost
-  * Dong An, Jin-Peng Liu, Lin Lin
-  * arXiv: 2303.01029
-* A theory of quantum differential equation solvers: limitations and fast-forwarding 
-  * Dong An, Jin-Peng Liu, Daochen Wang, Qi Zhao
-  * arXiv: 2211.05246
-* Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation
-  * Dong An, Di Fang, Stephen Jordan, Jin-Peng Liu, Guang Hao Low, Jiasu Wang
-  * arXiv: 2205.01141
-
+* D. An, J. Liu, L. Lin, Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost [arXiv: 2303.01029]
+* D. An, J. Liu, D. Wang, Q. Zhao, A theory of quantum differential equation solvers: limitations and fast-forwarding [arXiv: 2211.05246]
+* D. An, D. Fang, S. Jordan, J. Liu, G. Low, J. Wang, Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation [arXiv: 2205.01141]
 
 Peer-reviewed papers
 ======
