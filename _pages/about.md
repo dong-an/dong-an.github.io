@@ -13,3 +13,7 @@ My name is Dong An (安冬). I am currently a Hartree Postdoctoral Fellow at [Jo
 I received my Ph.D. in Applied Mathematics from University of California, Berkeley in 2021, advised by Professor [Lin Lin](https://math.berkeley.edu/~linlin/), and my B.S. degree in computational mathematics from Peking University in 2016. 
 
 My research interests lie in the inter-discipline of quantum computing and applied mathematics. Currently I mainly work on exploring power and limitations of quantum algorithms for scientific computing problems, including large-scale linear systems of equations, ordinary or partial differential equations, Hamiltonian simulation, stochastic differential equations, and optimal control. I’m also interested in adiabatic quantum computing and variational quantum algorithms, especially their theoretical analysis. 
+
+  Email: dongan@umd.edu
+  
+  Office: 3355 Atlantic Building
