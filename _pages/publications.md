@@ -18,7 +18,7 @@ Preprints
 
 Papers in press
 ======
-* D. An, J. Liu, L. Lin, Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost, Physical Review Letters [[arXiv:2303.01029](https://arxiv.org/abs/2303.01029)]
+* D. An, J. Liu, L. Lin, Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost, accepted by Physical Review Letters [[arXiv:2303.01029](https://arxiv.org/abs/2303.01029)][[in press](https://journals.aps.org/prl/accepted/87077YdaPe31699930199e36bfeeb5ae5f8d4fc52)]
 
 Peer-reviewed papers
 ======
