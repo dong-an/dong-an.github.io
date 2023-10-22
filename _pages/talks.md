@@ -9,7 +9,7 @@ author_profile: true
   * Workshop on Quantum Algorithms for Scientific Computation, IPAM at UCLA, October 2023
 * Quantum algorithms for linear differential equations beyond Hamiltonian simulation
   * ISE seminar at Lehigh University, September 2023
-* Linear combination of Hamiltonian simulation for non-unitary dynamics
+* Linear combination of Hamiltonian simulation for non-unitary dynamics [[video](https://www.youtube.com/watch?v=p1H2CoyaA_Q)]
   * QSim 2023, August 2023
 * End-to-end applications of quantum linear system and differential equation algorithms
   * RQS Institute workshop, June 2023
