@@ -25,7 +25,7 @@ author_profile: true
   * QuICS Stakeholder Day, February 2023
 * Quantum linear system solvers based on continuous and discrete adiabatic quantum computing
   * Quantum Computing Seminar at GMU, February 2022
-* Improved complexity estimation for Hamiltonian simulation with Trotter formula
+* Improved complexity estimation for Hamiltonian simulation with Trotter formula [[video](http://www.ipam.ucla.edu/abstract/?tid=17352&pcode=QL2022)][[slides](http://helper.ipam.ucla.edu/publications/ql2022/ql2022_17352.pdf)]
   * Workshop on Quantum Numerical Linear Algebra, IPAM at UCLA, January 2022
 * Quantum linear system solver based on adiabatic quantum computing
   * SIAM Conference on Applied Linear Algebra (SIAM LA21), May 2021
