@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost
+* Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost [[video](http://www.ipam.ucla.edu/abstract/?tid=19327&pcode=CQCWS1)][[slides](http://helper.ipam.ucla.edu/publications/cqcws1/cqcws1_19327.pdf)]
   * Workshop on Quantum Algorithms for Scientific Computation, IPAM at UCLA, October 2023
 * Quantum algorithms for linear differential equations beyond Hamiltonian simulation
   * ISE seminar at Lehigh University, September 2023
