@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost
+  * Workshop on Quantum Algorithms for Scientific Computation, IPAM at UCLA, October 2023
+* Quantum algorithms for linear differential equations beyond Hamiltonian simulation
+  * ISE seminar at Lehigh University, September 2023
+* Linear combination of Hamiltonian simulation for non-unitary dynamics
+  * QSim 2023, August 2023
 * End-to-end applications of quantum linear system and differential equation algorithms
   * RQS Institute workshop, June 2023
 * Optimal scaling quantum linear-systems solver via discrete adiabatic theorem
