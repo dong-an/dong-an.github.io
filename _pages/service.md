@@ -16,5 +16,5 @@ Organizing
 
 Reviewing
 ======
-* Journal reviewer: Adv. Quantum Technol, Ann. Phys. (Berl.), Commun. Math. Phys, Comput. Phys. Commun, Entropy, J. Comput. Chem, J. Comput. Phys, J. Sci. Comput., New J. Phys, npj Quantum Inf, PRA, PRD, PRE, PRL, PRX, PRX Quantum, Quantum, Quantum Sci. Technol
-* Conference reviewer: ICALP 2023, QIP 2021, QIP 2022, QIP 2023, STOC 2022, TQC 2022, TQC 2023
+* Journal reviewer: ACM TQC, Adv. Quantum Technol, Ann. Phys. (Berl.), Commun. Math. Phys, Comput. Phys. Commun, Entropy, J. Comput. Chem, J. Comput. Phys, J. Sci. Comput., New J. Phys, npj Quantum Inf, PRA, PRD, PRE, PRL, PRX, PRX Quantum, Quantum, Quantum Sci. Technol
+* Conference reviewer: ICALP 2023, QIP 2021, QIP 2022, QIP 2023, QIP 2024, STOC 2022, TQC 2022, TQC 2023
