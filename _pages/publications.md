@@ -14,10 +14,12 @@ author_profile: true
 Preprints
 ======
 * D. An, J. Liu, D. Wang, Q. Zhao, A theory of quantum differential equation solvers: limitations and fast-forwarding [[arXiv:2211.05246](https://arxiv.org/abs/2211.05246)]
-* D. An, D. Fang, S. Jordan, J. Liu, G. Low, J. Wang, Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation [[arXiv:2205.01141](https://arxiv.org/abs/2205.01141)]
+
 
 Papers in press
 ======
+* D. An, D. Fang, S. Jordan, J. Liu, G. Low, J. Wang, Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation, accepted by Communications in Mathematical Physics [[arXiv:2205.01141](https://arxiv.org/abs/2205.01141)]
+
 
 Peer-reviewed papers
 ======
