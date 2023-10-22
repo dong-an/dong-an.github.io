@@ -18,10 +18,10 @@ Preprints
 
 Papers in press
 ======
-* D. An, J. Liu, L. Lin, Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost, accepted by Physical Review Letters [[arXiv:2303.01029](https://arxiv.org/abs/2303.01029)][[in press](https://journals.aps.org/prl/accepted/87077YdaPe31699930199e36bfeeb5ae5f8d4fc52)]
 
 Peer-reviewed papers
 ======
+* D. An, J. Liu, L. Lin, Linear combination of Hamiltonian simulation for nonunitary dynamics with optimal state preparation cost, Physical Review Letters 131, 150603, 2023 [[doi](https://doi.org/10.1103/PhysRevLett.131.150603)][[arXiv](https://arxiv.org/abs/2303.01029)]
 * P. C. S. Costa, D. An, Y. R. Sanders, Y. Su, R. Babbush, D. W. Berry, Optimal scaling quantum linear systems solver via discrete adiabatic theorem, PRX Quantum 3 (4), 040303, 2022 [[doi](https://doi.org/10.1103/PRXQuantum.3.040303)][[arXiv](https://arxiv.org/abs/2111.08152)]
 * D. An, L. Lin, M. Lindsey, Towards sharp error analysis of extended Lagrangian molecular dynamics, Journal of Computational Physics 466, 111403, 2022 [[doi](https://doi.org/10.1016/j.jcp.2022.111403)][[arXiv](https://arxiv.org/abs/2010.07508)]
 * D. An, D. Fang, L. Lin, Time-dependent Hamiltonian Simulation of Highly Oscillatory Dynamics and Superconvergence for Schrödinger Equation, Quantum 6, 690, 2022 [[doi](https://doi.org/10.22331/q-2022-04-15-690)][[arXiv](https://arxiv.org/abs/2111.03103)]
