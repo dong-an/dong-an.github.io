@@ -7,5 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+* Lecturer: Introduction to quantum linear algebra, Mathematical and Computational Challenges in Quantum Computing Tutorials, IPAM at UCLA, Fall 2022
+  * part 1, part 2, part 3
 * Graduate Student Instructor: Math 228A, Numerical solutions of differential equations II, University of California, Berkeley, Fall 2019
 * Graduate Student Instructor: Math 1B, Calculus II, University of California, Berkeley, Spring 2017
