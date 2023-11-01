@@ -13,6 +13,7 @@ author_profile: true
 
 Preprints
 ======
+* D. An, K. Trivisa, Quantum algorithms for linear and non-linear fractional reaction-diffusion equations [[arXiv:2310.18900](https://arxiv.org/abs/2310.18900)]
 * D. An, J. Liu, D. Wang, Q. Zhao, A theory of quantum differential equation solvers: limitations and fast-forwarding [[arXiv:2211.05246](https://arxiv.org/abs/2211.05246)]
 
 
