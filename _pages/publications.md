@@ -13,6 +13,7 @@ author_profile: true
 
 Preprints
 ======
+* P. C. S. Costa, D. An, R. Babbush, and D. W. Berry. The discrete adiabatic quantum linear system solver has lower constant factors than the randomized adiabatic solver. [[arXiv:2312.07690](https://arxiv.org/abs/2312.07690)]
 * D. An, A. Childs, and L. Lin. Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters. [[arXiv:2312.03916](https://arxiv.org/abs/2312.03916)]
 * D. An, and K. Trivisa. Quantum algorithms for linear and non-linear fractional reaction-diffusion equations. [[arXiv:2310.18900](https://arxiv.org/abs/2310.18900)]
 * D. An, J. Liu, D. Wang, and Q. Zhao. A theory of quantum differential equation solvers: limitations and fast-forwarding. [[arXiv:2211.05246](https://arxiv.org/abs/2211.05246)]
