@@ -19,7 +19,7 @@ Education
 * University of California, Berkeley, USA
   * Ph.D. Applied Mathematics, August 2021
   * Advisor: Professor Lin Lin
-  * Dissertation: Simulating Many-body Quantum Dynamics on Classical and Quantum Computers [[pdf](http://dong-an.github.io/files/Dissertation-final.pdf)]
+  * Dissertation: Simulating Many-body Quantum Dynamics on Classical and Quantum Computers [[pdf](https://escholarship.org/uc/item/8h70p30t)]
 * Peking University, China
   * B.S. Mathematics, July 2016
   * B.S. Economics, July 2016
