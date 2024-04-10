@@ -5,6 +5,24 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Quantum algorithms for linear differential equations 
+  * Spring 2024 Conference on Applied Mathematics, George Washington University Student Chapter of SIAM, April 2024
+* Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters 
+  * Robust Quantum Simulation Seminar, University of Maryland, April 2024
+* Introduction to quantum numerical linear algebra
+  * (Featured as a *Rising Star in Quantum Computing*) IBM Quantum System One Ribbon-Cutting Celebration and Reception at Rensselaer Polytechnic Institute, April 2024
+* Quantum algorithms for linear differential equations beyond Hamiltonian simulation 
+  * 2024 INFORMS Optimization Society Conference, March 2024
+* Quantum algorithms for linear differential equations
+  * Applied Math Colloquium, University of Maryland, Baltimore County, March 2024
+* Linear combination of Hamiltonian simulation for non-unitary dynamics 
+  * Invited talk at APS March Meeting 2024, March 2024
+* Quantum algorithms for high-dimensional linear differential equations
+  * Numerical Analysis Seminar, University of Maryland, February 2024 
+* Quantum algorithms for high-dimensional linear differential equations
+  * Computational and Applied Mathematics Colloquium, Penn State University, January 2024 
+* Quantum algorithms for high-dimensional linear differential equations
+  * Applied & Computational Math Seminar, BICMR at Peking University, December 2023
 * Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost [[video](http://www.ipam.ucla.edu/abstract/?tid=19327&pcode=CQCWS1)][[slides](http://helper.ipam.ucla.edu/publications/cqcws1/cqcws1_19327.pdf)]
   * Workshop on Quantum Algorithms for Scientific Computation, IPAM at UCLA, October 2023
 * Quantum algorithms for linear differential equations beyond Hamiltonian simulation
