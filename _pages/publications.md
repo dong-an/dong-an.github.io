@@ -23,7 +23,7 @@ Preprints
 Peer-reviewed papers
 ======
 * J. Liu, D. An, D. Fang, J. Wang, G. Low, and S. Jordan. Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation. *Communications in Mathematical Physics* 404, 963–1020, 2023. [[doi](https://doi.org/10.1007/s00220-023-04857-9)][[arXiv](https://arxiv.org/abs/2205.01141)]
-* D. An, J. Liu, and L. Lin. Linear combination of Hamiltonian simulation for nonunitary dynamics with optimal state preparation cost. *Physical Review Letters* 131, 150603, 2023. [[doi](https://doi.org/10.1103/PhysRevLett.131.150603)][[arXiv](https://arxiv.org/abs/2303.01029)]
+* D. An, J. Liu, and L. Lin. Linear combination of Hamiltonian simulation for nonunitary dynamics with optimal state preparation cost. *Physical Review Letters* 131, 150603, 2023. [[doi](https://doi.org/10.1103/PhysRevLett.131.150603)][[arXiv](https://arxiv.org/abs/2303.01029)] (QIP talk 2024)
 * P. C. S. Costa, D. An, Y. R. Sanders, Y. Su, R. Babbush, and D. W. Berry. Optimal scaling quantum linear systems solver via discrete adiabatic theorem. *PRX Quantum* 3 (4), 040303, 2022. [[doi](https://doi.org/10.1103/PRXQuantum.3.040303)][[arXiv](https://arxiv.org/abs/2111.08152)] (QIP talk 2022)
 * D. An, L. Lin, and M. Lindsey. Towards sharp error analysis of extended Lagrangian molecular dynamics. *Journal of Computational Physics* 466, 111403, 2022. [[doi](https://doi.org/10.1016/j.jcp.2022.111403)][[arXiv](https://arxiv.org/abs/2010.07508)]
 * D. An, D. Fang, and L. Lin. Time-dependent Hamiltonian Simulation of Highly Oscillatory Dynamics and Superconvergence for Schrödinger Equation. *Quantum* 6, 690, 2022. [[doi](https://doi.org/10.22331/q-2022-04-15-690)][[arXiv](https://arxiv.org/abs/2111.03103)] (TQC talk 2022)
