@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Quantum eigenvalue transformation from and beyond Hamiltonian simulation
+  * IQIM Seminar, Caltech, May 2024
 * Quantum algorithms for linear differential equations 
   * Spring 2024 Conference on Applied Mathematics, George Washington University Student Chapter of SIAM, April 2024
 * Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters 
