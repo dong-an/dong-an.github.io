@@ -16,6 +16,5 @@ My research interest is **Quantum** X **Applied Mathematics**, which is primaril
 
 Currently I mainly work on exploring power and limitations of quantum algorithms for scientific computing tasks, including large-scale linear systems of equations, ordinary or partial differential equations, Hamiltonian simulation, stochastic differential equations, and optimal control. I’m also interested in adiabatic quantum computing and variational quantum algorithms, especially their theoretical analysis. 
 
-  Email: dongan@umd.edu
+  Email: dongan39126@gmail.edu
   
-  Office: 3355 Atlantic Building
