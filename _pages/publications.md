@@ -13,6 +13,7 @@ author_profile: true
 
 Preprints
 ======
+* Y. Dong, D. An, and M. Y. Niu. Feedforward Quantum Singular Value Transformation. [[arXiv:2408.07803](https://arxiv.org/abs/2408.07803)]
 * J. Aftab, D. An, and K. Trivisa. Multi-product Hamiltonian simulation with explicit commutator scaling. [[arXiv:2403.08922](https://arxiv.org/abs/2403.08922)] (TQC talk 2024)
 * P. C. S. Costa, D. An, R. Babbush, and D. W. Berry. The discrete adiabatic quantum linear system solver has lower constant factors than the randomized adiabatic solver. [[arXiv:2312.07690](https://arxiv.org/abs/2312.07690)]
 * D. An, A. M. Childs, and L. Lin. Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters. [[arXiv:2312.03916](https://arxiv.org/abs/2312.03916)]
