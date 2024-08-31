@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dong An"
 title_separator          : "-"
 name                     : &name "Dong An"
-description              : &description "Assistant Professor at Beijing International Center for Mathematical Research (BICMR), Peking University"
+description              : &description "Assistant Professor at BICMR, Peking University"
 url                      : https://dong-an.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dong-an/dong-an.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dong An"
   avatar           : "profile_me_2.png"
-  bio              : "Assistant Professor at Beijing International Center for Mathematical Research (BICMR), Peking University"
+  bio              : "Assistant Professor at BICMR, Peking University"
   location         : "Beijing, China"
   employer         : 
   pubmed           : 
