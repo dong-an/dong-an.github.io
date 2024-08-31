@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dong An"
 title_separator          : "-"
 name                     : &name "Dong An"
-description              : &description "Hartree Postdoctoral Fellow at University of Maryland"
+description              : &description "Assistant Professor at Beijing International Center for Mathematical Research (BICMR), Peking University"
 url                      : https://dong-an.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dong-an/dong-an.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dong An"
   avatar           : "profile_me_2.png"
-  bio              : "Hartree Postdoctoral Fellow at University of Maryland"
-  location         : "College Park, MD"
+  bio              : "Assistant Professor at Beijing International Center for Mathematical Research (BICMR), Peking University"
+  location         : "Beijing, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SGodtbsAAAAJ&hl=en"
-  email            : "dongan@umd.edu"
+  email            : "dongan@pku.edu.cn"
   researchgate     :  
   uri              :
   bitbucket        :
