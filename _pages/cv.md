@@ -11,8 +11,10 @@ redirect_from:
 
 Position
 ======
-* University of Maryland, College Park, USA
-  * QuICS Hartree Postdoctoral fellow, September 2021 - present
+* Beijing International Center for Mathematical Research, Peking University, Beijing, China
+  * Assistant Professor, September 2024 - present
+* Joint Center for Quantum Information and Computer Science, University of Maryland, College Park, USA
+  * QuICS Hartree Postdoctoral fellow, September 2021 - July 2024
 
 Education
 ======
