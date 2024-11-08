@@ -17,4 +17,12 @@ My research interest is **Quantum** X **Applied Mathematics**, which is primaril
 Currently I mainly work on exploring power and limitations of quantum algorithms for scientific computing tasks, including large-scale linear systems of equations, ordinary or partial differential equations, Hamiltonian simulation, stochastic differential equations, and optimal control. I’m also interested in adiabatic quantum computing and variational quantum algorithms, especially their theoretical analysis. 
 
   Email: dongan@pku.edu.cn
-  
+
+
+News
+======
+* 2024/09 I joined Beijing International Center for Mathematical Research (BICMR), Peking University as an assistant professor. 
+
+Joining us
+======
+We are constantly recruiting undergraduate, master, PhD students and postdocs. Please email me directly if you are interested in joining us! 
