@@ -34,6 +34,6 @@ Selected Honors/Awards
 * Honors Graduation Award, Peking University, 2016
 * Honors Graduation Award in Applied Mathematics, Peking University, 2016
 
-Work experience
+Work Experience
 ======
-* Research intern, Google AI Quantum, Summer 2020
+* Research intern, Google Quantum AI, May 2020 - August 2020
