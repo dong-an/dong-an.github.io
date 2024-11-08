@@ -5,6 +5,16 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Quantum algorithms for computational mathematics
+  * Peking University, October 2024
+* Quantum eigenvalue transformation from and beyond Hamiltonian simulation
+  * Quantum computing minisymposium at 2024 CSIAM annual meeting, Nanjing, October 2024
+* Quantum algorithms for systems of linear equations and differential equations
+  * Operation Research Seminar, Peking University, October 2024
+* Quantum algorithms for systems of linear equations and differential equations
+  * Fudan University, October 2024
+* Multi-product Hamiltonian simulation with explicit commutator scaling
+  * TQC 2024, Okinawa, Japan, September 2024
 * Quantum eigenvalue transformation from and beyond Hamiltonian simulation
   * IQIM Seminar, Caltech, May 2024
 * Quantum algorithms for linear differential equations 
