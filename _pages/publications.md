@@ -13,14 +13,14 @@ author_profile: true
 
 Preprints
 ======
-* D. An, A. M. Childs, L. Lin, and L. Ying. Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation. [[arXiv:2411.04010](https://arxiv.org/abs/2411.04010)]
+* D. An, A. M. Childs, L. Lin, and L. Ying. Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation. [[arXiv:2411.04010](https://arxiv.org/abs/2411.04010)] (QIP talk 2025, merged with [arXiv:2312.03916])
 * M. E. S. Morales, L. Pira, P. Schleich, K. Koor, P. C. S. Costa, D. An, L. Lin, P. Rebentrost, and D. W. Berry. Quantum Linear System Solvers: A Survey of Algorithms and Applications. [[arXiv:2411.02522](https://arxiv.org/abs/2411.02522)]
 * Z. Shang, N. Guo, D. An, and Q. Zhao. Design nearly optimal quantum algorithm for linear differential equations via Lindbladians. [[arXiv:2410.19628](https://arxiv.org/abs/2410.19628)]
 * D. An, A. Onwunta, and G. Yang. Fast-forwarding quantum algorithms for linear dissipative differential equations. [[arXiv:2410.13189](https://arxiv.org/abs/2410.13189)]
 * Y. Dong, D. An, and M. Y. Niu. Feedforward Quantum Singular Value Transformation. [[arXiv:2408.07803](https://arxiv.org/abs/2408.07803)]
 * J. Aftab, D. An, and K. Trivisa. Multi-product Hamiltonian simulation with explicit commutator scaling. [[arXiv:2403.08922](https://arxiv.org/abs/2403.08922)] (TQC talk 2024)
 * P. C. S. Costa, D. An, R. Babbush, and D. W. Berry. The discrete adiabatic quantum linear system solver has lower constant factors than the randomized adiabatic solver. [[arXiv:2312.07690](https://arxiv.org/abs/2312.07690)]
-* D. An, A. M. Childs, and L. Lin. Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters. [[arXiv:2312.03916](https://arxiv.org/abs/2312.03916)]
+* D. An, A. M. Childs, and L. Lin. Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters. [[arXiv:2312.03916](https://arxiv.org/abs/2312.03916)] (QIP talk 2025, merged with [arXiv:2411.04010])
 * D. An, and K. Trivisa. Quantum algorithms for linear and non-linear fractional reaction-diffusion equations. [[arXiv:2310.18900](https://arxiv.org/abs/2310.18900)]
 * D. An, J. Liu, D. Wang, and Q. Zhao. A theory of quantum differential equation solvers: limitations and fast-forwarding. [[arXiv:2211.05246](https://arxiv.org/abs/2211.05246)]
 
