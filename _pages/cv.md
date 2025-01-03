@@ -23,7 +23,7 @@ Education
   * Advisor: Professor Lin Lin
   * Dissertation: Simulating Many-body Quantum Dynamics on Classical and Quantum Computers [[pdf](https://escholarship.org/uc/item/8h70p30t)]
 * Peking University, China
-  * B.S. Mathematics, July 2016
+  * B.S. Computational Mathematics, July 2016
   * B.S. Economics, July 2016
  
 Selected Honors/Awards
