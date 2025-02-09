@@ -9,7 +9,7 @@ author_profile: true
 
 Lecturer
 ======
-* Quantum algorithms for scientific computation, Peking University, Spring 2025 [[Website](/markdown)]
+* Quantum algorithms for scientific computation, Peking University, Spring 2025
 * Introduction to quantum linear algebra, Mathematical and Computational Challenges in Quantum Computing Tutorials, IPAM at UCLA, Fall 2023 [[slides](http://helper.ipam.ucla.edu/publications/cqctut/cqctut_19840.pdf)]
   * part 1 [[video](https://www.youtube.com/watch?v=tMJ_QQ9QO5I)], part 2 [[video](https://www.youtube.com/watch?v=zmS6QU56374)], part 3 [[video](https://www.youtube.com/watch?v=YC0vIOQJnnI)]
 
