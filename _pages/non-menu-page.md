@@ -1,7 +1,7 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
-excerpt: "This is a page not in th emain menu"
+permalink: /QASC/
+title: "科学计算中的量子算法"
+excerpt: "科学计算中的量子算法课程主页"
 author_profile: true
 redirect_from: 
   - "/nmp/"
