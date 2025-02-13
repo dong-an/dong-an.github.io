@@ -8,10 +8,10 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
 
-Heading 1
+时间地点
 ======
+24-25学年第2学期：三教406，每周周二7-8节，单周周四5-6节
 
 Heading 2
 ======
