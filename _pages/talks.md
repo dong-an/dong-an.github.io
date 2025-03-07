@@ -17,7 +17,7 @@ Conference talks
   * Young scholar forum in computational mathematics, Wuhan, November 2024
 * Quantum eigenvalue transformation from and beyond Hamiltonian simulation
   * Quantum computing minisymposium at 2024 CSIAM annual meeting, Nanjing, October 2024
-* Multi-product Hamiltonian simulation with explicit commutator scaling
+* Multi-product Hamiltonian simulation with explicit commutator scaling [[video](https://www.youtube.com/watch?v=sU0Ydtwcqrw)]
   * TQC 2024, Okinawa, September 2024
 * Introduction to quantum numerical linear algebra
   * (Featured as a *Rising Star in Quantum Computing*) IBM Quantum System One Ribbon-Cutting Celebration and Reception at Rensselaer Polytechnic Institute, April 2024
