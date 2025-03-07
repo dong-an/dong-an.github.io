@@ -13,6 +13,7 @@ author_profile: true
 
 Preprints
 ======
+* Z. Lai, J. Hu, T. Ko, J. Wu, and D. An. Optimal interpolation-based coordinate descent method for parameterized quantum circuits. [[arXiv:2503.04620](https://arxiv.org/abs/2503.04620)]
 * P. C. S. Costa, M. E.S. Morales, D. An, and Y. R. Sanders. Assessing quantum and classical approaches to combinatorial optimization: testing quadratic speed-ups for heuristic algorithms. [[arXiv:2412.13035](https://arxiv.org/abs/2412.13035)]
 * D. An, A. M. Childs, L. Lin, and L. Ying. Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation. [[arXiv:2411.04010](https://arxiv.org/abs/2411.04010)] (QIP talk 2025, merged with [arXiv:2312.03916])
 * M. E. S. Morales, L. Pira, P. Schleich, K. Koor, P. C. S. Costa, D. An, L. Lin, P. Rebentrost, and D. W. Berry. Quantum Linear System Solvers: A Survey of Algorithms and Applications. [[arXiv:2411.02522](https://arxiv.org/abs/2411.02522)]
