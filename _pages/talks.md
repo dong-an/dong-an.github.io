@@ -7,6 +7,14 @@ author_profile: true
 
 Conference talks
 ======
+* Quantum algorithms for linear differential equations and eigenvalue transformations via linear combination of Hamiltonian simulation
+  * QIP 2025, February 2025
+* The discrete adiabatic quantum linear system solver has lower constant factors than the randomized adiabatic solver
+  * (Invited talk) 25th Congress of the Australian Institute of Physics (AIP 2024), December 2024
+* Large time-step discretisation of adiabatic quantum dynamics
+  * 25th Congress of the Australian Institute of Physics (AIP 2024), December 2024
+* Quantum algorithms for systems of linear equations and differential equations
+  * Young scholar forum in computational mathematics, Wuhan, November 2024
 * Quantum eigenvalue transformation from and beyond Hamiltonian simulation
   * Quantum computing minisymposium at 2024 CSIAM annual meeting, Nanjing, October 2024
 * Multi-product Hamiltonian simulation with explicit commutator scaling
@@ -16,11 +24,11 @@ Conference talks
 * Quantum algorithms for linear differential equations beyond Hamiltonian simulation 
   * 2024 INFORMS Optimization Society Conference, March 2024
 * Linear combination of Hamiltonian simulation for non-unitary dynamics 
-  * Invited talk at APS March Meeting 2024, March 2024
+  * (Invited talk) APS March Meeting 2024, March 2024
 * Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost [[video](http://www.ipam.ucla.edu/abstract/?tid=19327&pcode=CQCWS1)][[slides](http://helper.ipam.ucla.edu/publications/cqcws1/cqcws1_19327.pdf)]
   * Workshop on Quantum Algorithms for Scientific Computation, IPAM at UCLA, October 2023
 * Linear combination of Hamiltonian simulation for non-unitary dynamics [[video](https://www.youtube.com/watch?v=p1H2CoyaA_Q)]
-  * QSim 2023, August 2023
+  * (Invited talk) QSim 2023, August 2023
 * End-to-end applications of quantum linear system and differential equation algorithms
   * RQS Institute workshop, June 2023
 * Optimal scaling quantum linear-systems solver via discrete adiabatic theorem
@@ -42,6 +50,12 @@ Conference talks
  
 Seminar talks
 ======
+* Quantum eigenvalue transformation from and beyond Hamiltonian simulation
+  * Academy of Mathematics and Systems Science of the Chinese Academy of Sciences, January 2025
+* Quantum eigenvalue transformation from and beyond Hamiltonian simulation
+  * National University of Singapore, December 2024
+* Quantum algorithms for linear systems of equations: optimal scaling and preconditioning
+  * Tsinghua University, November 2024
 * Quantum algorithms for computational mathematics
   * Peking University, October 2024
 * Quantum algorithms for systems of linear equations and differential equations
