@@ -47,11 +47,12 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 
    2.1 向量与矩阵 [[课件](http://dong-an.github.io/files/QASC_Section_2_1.pdf)]
 
-   2.2 基本算法
+   2.2 基本算法 [[课件](http://dong-an.github.io/files/QASC_Section_2_2.pdf)]
 
 作业
 ======
 * [作业1](http://dong-an.github.io/files/QASC_hw1.pdf)，截止日期：第4周周二（3月11日）
+* [作业2](http://dong-an.github.io/files/QASC_hw2.pdf)，截止日期：第6周周二（3月25日）
 
 
 
