@@ -35,7 +35,7 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 ======
 （当前进度25/03/13: 2.2 第19页）
 
-0. 课程介绍 [[课件](http://dong-an.github.io/files/QASC_Section_0.pdf)]
+课程介绍 [[课件](http://dong-an.github.io/files/QASC_Section_0.pdf)]
   
 1. 量子力学与量子算法基础
    
