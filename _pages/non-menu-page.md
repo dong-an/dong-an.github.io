@@ -49,6 +49,14 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 
    2.2 基本算法 [[课件](http://dong-an.github.io/files/QASC_Section_2_2.pdf)]
 
+3. 量子算法基元
+
+   3.1 量子傅立叶变换与量子相位估计 [[课件](http://dong-an.github.io/files/QASC_Section_3_1.pdf)]
+
+   3.2 量子搜索、量子振幅放大与量子振幅估计
+
+   3.3 哈密顿量模拟
+
 作业
 ======
 * [作业1](http://dong-an.github.io/files/QASC_hw1.pdf)，截止日期：第4周周二（3月11日）
