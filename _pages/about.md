@@ -21,7 +21,8 @@ Currently I mainly work on exploring power and limitations of quantum algorithms
 
 News
 ======
-* 2024/12, our papers "Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters" and "Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation" were accepted as a merged talk by the 28th Quantum Information Processing Conference (QIP2025). 
+* 2025/03, I will serve as a PC member of [AQIS 2025](http://aqis-conf.org/2025/). Talk and poster submissions are welcome! 
+* 2024/12, our papers "Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters" and "Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation" were accepted as a merged talk by [QIP 2025](https://rsvp.duke.edu/event/qip2025/home). 
 * 2024/09, I joined Beijing International Center for Mathematical Research (BICMR), Peking University as an assistant professor. 
 
 Joining us
