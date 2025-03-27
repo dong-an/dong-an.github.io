@@ -10,6 +10,7 @@ redirect_from:
 
 课程通知
 ======
+* 第9周周二（4月15日）和周四（4月17日）课程暂停两次，第8周周四（4月10日）5-6节和第10周周四（4月24日）5-6节补课（补课地点不变）
 * 第2周周二（2月25日）课程暂停一次，第4周周四（3月13日）5-6节补课（补课地点不变）
 * [课程群](http://dong-an.github.io/files/group_code.JPG)
 
@@ -61,6 +62,8 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 ======
 * [作业1](http://dong-an.github.io/files/QASC_hw1.pdf)，截止日期：第4周周二（3月11日）
 * [作业2](http://dong-an.github.io/files/QASC_hw2.pdf)，截止日期：第6周周二（3月25日）
+* [作业3](http://dong-an.github.io/files/QASC_hw3.pdf)，截止日期：第8周周二（4月8日）
+
 
 
 
