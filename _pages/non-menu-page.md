@@ -56,7 +56,9 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 
    3.2 量子搜索、振幅放大与振幅估计 [[课件](http://dong-an.github.io/files/QASC_Section_3_2.pdf)]
 
-   3.3 哈密顿量模拟
+   3.3 哈密顿量模拟 [[课件](http://dong-an.github.io/files/QASC_Section_3_3.pdf)]
+
+4. 线性方程组的量子算法    
 
 作业
 ======
