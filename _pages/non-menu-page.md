@@ -58,7 +58,11 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 
    3.3 哈密顿量模拟 [[课件](http://dong-an.github.io/files/QASC_Section_3_3.pdf)]
 
-4. 线性方程组的量子算法    
+4. 线性方程组的量子算法
+
+   4.1 HHL算法 [[课件](http://dong-an.github.io/files/QASC_Section_4_1.pdf)]
+
+   4.2 LCU算法
 
 作业
 ======
