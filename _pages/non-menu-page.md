@@ -62,7 +62,9 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 
    4.1 HHL算法 [[课件](http://dong-an.github.io/files/QASC_Section_4_1.pdf)]
 
-   4.2 LCU算法
+   4.2 LCU算法 [[课件](http://dong-an.github.io/files/QASC_Section_4_2.pdf)]
+
+5. 线性微分方程的量子算法
 
 作业
 ======
