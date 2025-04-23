@@ -34,7 +34,7 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 
 课程大纲
 ======
-（当前进度25/04/03: 3.3结束）
+（当前进度25/04/22: 4.2 第6页）
 
 课程介绍 [[课件](http://dong-an.github.io/files/QASC_Section_0.pdf)]
   
@@ -65,6 +65,10 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
    4.2 LCU算法 [[课件](http://dong-an.github.io/files/QASC_Section_4_2.pdf)]
 
 5. 线性微分方程的量子算法
+
+   5.1 基于线性方程组的算法 [[课件](http://dong-an.github.io/files/QASC_Section_5_1.pdf)]
+
+   5.2 哈密顿量模拟的线性组合
 
 作业
 ======
