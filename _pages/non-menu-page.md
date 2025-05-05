@@ -77,7 +77,7 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 * [作业2](http://dong-an.github.io/files/QASC_hw2.pdf)，截止日期：第6周周二（3月25日）
 * [作业3](http://dong-an.github.io/files/QASC_hw3.pdf)，截止日期：第8周周二（4月8日）
 * [作业4](http://dong-an.github.io/files/QASC_hw4.pdf)，截止日期：第11周周二（4月29日）
-* 作业5，截止日期：第14周周二（5月20日）
+* [作业5](http://dong-an.github.io/files/QASC_hw5.pdf)，截止日期：第14周周二（5月20日）
 * 作业6，截止日期：第16周周二（6月3日）
 
 
