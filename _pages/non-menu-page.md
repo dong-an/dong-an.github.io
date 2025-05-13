@@ -74,7 +74,7 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 
    6.1 厄米矩阵函数 [[课件](http://dong-an.github.io/files/QASC_Section_6_1.pdf)]
 
-   6.2 量子奇异值变换
+   6.2 量子奇异值变换 [[课件](http://dong-an.github.io/files/QASC_Section_6_2.pdf)]
 
    6.3 应用
 
