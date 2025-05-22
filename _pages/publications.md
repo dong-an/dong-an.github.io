@@ -24,11 +24,11 @@ Preprints
 * P. C. S. Costa, D. An, R. Babbush, and D. W. Berry. The discrete adiabatic quantum linear system solver has lower constant factors than the randomized adiabatic solver. [[arXiv:2312.07690](https://arxiv.org/abs/2312.07690)]
 * D. An, A. M. Childs, and L. Lin. Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters. [[arXiv:2312.03916](https://arxiv.org/abs/2312.03916)] (QIP talk 2025, merged with [arXiv:2411.04010])
 * D. An, and K. Trivisa. Quantum algorithms for linear and non-linear fractional reaction-diffusion equations. [[arXiv:2310.18900](https://arxiv.org/abs/2310.18900)]
-* D. An, J. Liu, D. Wang, and Q. Zhao. A theory of quantum differential equation solvers: limitations and fast-forwarding. [[arXiv:2211.05246](https://arxiv.org/abs/2211.05246)]
 
 
 Peer-reviewed papers
 ======
+* D. An, J. Liu, D. Wang, and Q. Zhao. Quantum differential equation solvers: limitations and fast-forwarding. Accepted by *Communications in Mathematical Physics*. [[arXiv](https://arxiv.org/abs/2211.05246)]
 * J. Liu, D. An, D. Fang, J. Wang, G. Low, and S. Jordan. Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation. *Communications in Mathematical Physics* 404, 963–1020, 2023. [[doi](https://doi.org/10.1007/s00220-023-04857-9)][[arXiv](https://arxiv.org/abs/2205.01141)]
 * D. An, J. Liu, and L. Lin. Linear combination of Hamiltonian simulation for nonunitary dynamics with optimal state preparation cost. *Physical Review Letters* 131, 150603, 2023. [[doi](https://doi.org/10.1103/PhysRevLett.131.150603)][[arXiv](https://arxiv.org/abs/2303.01029)] (QIP talk 2024)
 * P. C. S. Costa, D. An, Y. R. Sanders, Y. Su, R. Babbush, and D. W. Berry. Optimal scaling quantum linear systems solver via discrete adiabatic theorem. *PRX Quantum* 3 (4), 040303, 2022. [[doi](https://doi.org/10.1103/PRXQuantum.3.040303)][[arXiv](https://arxiv.org/abs/2111.08152)] (QIP talk 2022)
