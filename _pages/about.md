@@ -21,8 +21,9 @@ Currently I mainly work on exploring power and limitations of quantum algorithms
 
 News
 ======
+* 2025/05, our paper "[Quantum differential equation solvers: limitations and fast-forwarding](https://arxiv.org/abs/2211.05246)" was accepted by Communications in Mathematical Physics. 
 * 2025/03, I will serve as a PC member of [AQIS 2025](http://aqis-conf.org/2025/). Talk and poster submissions are welcome! 
-* 2024/12, our papers "Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters" and "Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation" were accepted as a merged talk by [QIP 2025](https://rsvp.duke.edu/event/qip2025/home). 
+* 2024/12, our papers "[Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters](https://arxiv.org/abs/2312.03916)" and "[Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation](https://arxiv.org/abs/2411.04010)" were accepted as a merged talk by [QIP 2025](https://rsvp.duke.edu/event/qip2025/home). 
 * 2024/09, I joined Beijing International Center for Mathematical Research (BICMR), Peking University as an assistant professor. 
 
 Joining us
