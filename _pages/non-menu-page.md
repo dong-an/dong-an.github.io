@@ -82,6 +82,8 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 
    7.1 绝热量子计算和变分量子算法 [[课件](http://dong-an.github.io/files/QASC_Section_7_1.pdf)]
 
+8. 总结 [[课件](http://dong-an.github.io/files/QASC_Summary.pdf)]
+
 
 作业
 ======
