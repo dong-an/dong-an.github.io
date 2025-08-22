@@ -13,13 +13,14 @@ author_profile: true
 
 Preprints
 ======
+* G. Yang, A. Onwunta, and D. An. Quantum differential equation solvers with low state preparation cost: eliminating the time dependence in dissipative equations. [[arXiv:2508.15170](https://arxiv.org/abs/2508.15170)]
+* Z. Lai, J. Hu, D. An, and Z. Wen. Extended Parameter shift rules with minimal derivative variance for parameterized quantum circuits. [[arXiv:2508.08802](https://arxiv.org/abs/2508.08802)]
 * Z. Lai, J. Hu, T. Ko, J. Wu, and D. An. Optimal interpolation-based coordinate descent method for parameterized quantum circuits. [[arXiv:2503.04620](https://arxiv.org/abs/2503.04620)]
-* P. C. S. Costa, M. E.S. Morales, D. An, and Y. R. Sanders. Assessing quantum and classical approaches to combinatorial optimization: testing quadratic speed-ups for heuristic algorithms. [[arXiv:2412.13035](https://arxiv.org/abs/2412.13035)]
 * D. An, A. M. Childs, L. Lin, and L. Ying. Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation. [[arXiv:2411.04010](https://arxiv.org/abs/2411.04010)] (QIP talk 2025, merged with [arXiv:2312.03916])
-* M. E. S. Morales, L. Pira, P. Schleich, K. Koor, P. C. S. Costa, D. An, L. Lin, P. Rebentrost, and D. W. Berry. Quantum Linear System Solvers: A Survey of Algorithms and Applications. [[arXiv:2411.02522](https://arxiv.org/abs/2411.02522)]
+* M. E. S. Morales, L. Pira, P. Schleich, K. Koor, P. C. S. Costa, D. An, L. Lin, P. Rebentrost, and D. W. Berry. Quantum linear system solvers: A survey of algorithms and applications. [[arXiv:2411.02522](https://arxiv.org/abs/2411.02522)]
 * Z. Shang, N. Guo, D. An, and Q. Zhao. Design nearly optimal quantum algorithm for linear differential equations via Lindbladians. [[arXiv:2410.19628](https://arxiv.org/abs/2410.19628)]
 * D. An, A. Onwunta, and G. Yang. Fast-forwarding quantum algorithms for linear dissipative differential equations. [[arXiv:2410.13189](https://arxiv.org/abs/2410.13189)]
-* Y. Dong, D. An, and M. Y. Niu. Feedforward Quantum Singular Value Transformation. [[arXiv:2408.07803](https://arxiv.org/abs/2408.07803)]
+* Y. Dong, D. An, and M. Y. Niu. Feedforward quantum singular value transformation. [[arXiv:2408.07803](https://arxiv.org/abs/2408.07803)]
 * J. Aftab, D. An, and K. Trivisa. Multi-product Hamiltonian simulation with explicit commutator scaling. [[arXiv:2403.08922](https://arxiv.org/abs/2403.08922)] (TQC talk 2024)
 * P. C. S. Costa, D. An, R. Babbush, and D. W. Berry. The discrete adiabatic quantum linear system solver has lower constant factors than the randomized adiabatic solver. [[arXiv:2312.07690](https://arxiv.org/abs/2312.07690)]
 * D. An, A. M. Childs, and L. Lin. Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters. [[arXiv:2312.03916](https://arxiv.org/abs/2312.03916)] (QIP talk 2025, merged with [arXiv:2411.04010])
@@ -28,12 +29,13 @@ Preprints
 
 Peer-reviewed papers
 ======
-* D. An, J. Liu, D. Wang, and Q. Zhao. Quantum differential equation solvers: limitations and fast-forwarding. Accepted by *Communications in Mathematical Physics*. [[arXiv](https://arxiv.org/abs/2211.05246)]
+* P. C. S. Costa, M. E.S. Morales, D. An, and Y. R. Sanders. Assessing quantum and classical approaches to combinatorial optimization: testing quadratic speed-ups for heuristic algorithms. Accepted by *Physical Review A*. [[arXiv](https://arxiv.org/abs/2412.13035)]
+* D. An, J. Liu, D. Wang, and Q. Zhao. Quantum differential equation solvers: limitations and fast-forwarding. *Communications in Mathematical Physics* 406 (8), 189, 2025. [[doi](https://doi.org/10.1007/s00220-025-05358-7)][[arXiv](https://arxiv.org/abs/2211.05246)]
 * J. Liu, D. An, D. Fang, J. Wang, G. Low, and S. Jordan. Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation. *Communications in Mathematical Physics* 404, 963–1020, 2023. [[doi](https://doi.org/10.1007/s00220-023-04857-9)][[arXiv](https://arxiv.org/abs/2205.01141)]
 * D. An, J. Liu, and L. Lin. Linear combination of Hamiltonian simulation for nonunitary dynamics with optimal state preparation cost. *Physical Review Letters* 131, 150603, 2023. [[doi](https://doi.org/10.1103/PhysRevLett.131.150603)][[arXiv](https://arxiv.org/abs/2303.01029)] (QIP talk 2024)
 * P. C. S. Costa, D. An, Y. R. Sanders, Y. Su, R. Babbush, and D. W. Berry. Optimal scaling quantum linear systems solver via discrete adiabatic theorem. *PRX Quantum* 3 (4), 040303, 2022. [[doi](https://doi.org/10.1103/PRXQuantum.3.040303)][[arXiv](https://arxiv.org/abs/2111.08152)] (QIP talk 2022)
 * D. An, L. Lin, and M. Lindsey. Towards sharp error analysis of extended Lagrangian molecular dynamics. *Journal of Computational Physics* 466, 111403, 2022. [[doi](https://doi.org/10.1016/j.jcp.2022.111403)][[arXiv](https://arxiv.org/abs/2010.07508)]
-* D. An, D. Fang, and L. Lin. Time-dependent Hamiltonian Simulation of Highly Oscillatory Dynamics and Superconvergence for Schrödinger Equation. *Quantum* 6, 690, 2022. [[doi](https://doi.org/10.22331/q-2022-04-15-690)][[arXiv](https://arxiv.org/abs/2111.03103)] (TQC talk 2022)
+* D. An, D. Fang, and L. Lin. Time-dependent Hamiltonian simulation of highly oscillatory dynamics and superconvergence for Schrödinger equation. *Quantum* 6, 690, 2022. [[doi](https://doi.org/10.22331/q-2022-04-15-690)][[arXiv](https://arxiv.org/abs/2111.03103)] (TQC talk 2022)
 * D. An, and L. Lin. Quantum linear system solver based on time-optimal adiabatic quantum computing and quantum approximate optimization algorithm. *ACM Transactions on Quantum Computing*, 3 Article 5, 2022. [[doi](https://doi.org/10.1145/3498331)][[arXiv](https://arxiv.org/abs/1909.05500)]
 * D. An, D. Fang, and L. Lin. Parallel transport dynamics for mixed quantum states with applications to time-dependent density functional theory. *Journal of Computational Physics* 451, 110850, 2022. [[doi](https://doi.org/10.1016/j.jcp.2021.110850)][[arXiv](https://arxiv.org/abs/2105.14755)]
 * Y. Tong, D. An, N. Wiebe, and L. Lin. Fast inversion, preconditioned quantum linear system solvers, and fast evaluation of matrix functions. *Physical Review A* 104, 032422, 2021. [[doi](https://doi.org/10.1103/PhysRevA.104.032422)][[arXiv](https://arxiv.org/abs/2008.13295)]
