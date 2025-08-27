@@ -30,4 +30,4 @@ News
 
 Joining us
 ======
-We are constantly recruiting undergraduate, master, PhD students and postdocs. Please email me directly if you are interested in joining us! 
+We are constantly recruiting undergraduate, PhD students and postdocs. Please email me directly if you are interested in joining us! 
