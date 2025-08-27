@@ -21,6 +21,7 @@ Currently I mainly work on exploring power and limitations of quantum algorithms
 
 News
 ======
+* 2025/08, our paper "[Design nearly optimal quantum algorithm for linear differential equations via Lindbladians](https://arxiv.org/abs/2410.19628)" was accepted by Physical Review Letters. 
 * 2025/08, our paper "[Assessing quantum and classical approaches to combinatorial optimization: testing quadratic speed-ups for heuristic algorithms](https://arxiv.org/abs/2412.13035)" was accepted by Physical Review A. 
 * 2025/05, our paper "[Quantum differential equation solvers: limitations and fast-forwarding](https://arxiv.org/abs/2211.05246)" was accepted by Communications in Mathematical Physics. 
 * 2025/03, I will serve as a PC member of [AQIS 2025](http://aqis-conf.org/2025/). Talk and poster submissions are welcome! 
