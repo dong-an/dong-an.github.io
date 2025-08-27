@@ -18,7 +18,6 @@ Preprints
 * Z. Lai, J. Hu, T. Ko, J. Wu, and D. An. Optimal interpolation-based coordinate descent method for parameterized quantum circuits. [[arXiv:2503.04620](https://arxiv.org/abs/2503.04620)]
 * D. An, A. M. Childs, L. Lin, and L. Ying. Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation. [[arXiv:2411.04010](https://arxiv.org/abs/2411.04010)] (QIP talk 2025, merged with [arXiv:2312.03916])
 * M. E. S. Morales, L. Pira, P. Schleich, K. Koor, P. C. S. Costa, D. An, L. Lin, P. Rebentrost, and D. W. Berry. Quantum linear system solvers: A survey of algorithms and applications. [[arXiv:2411.02522](https://arxiv.org/abs/2411.02522)]
-* Z. Shang, N. Guo, D. An, and Q. Zhao. Design nearly optimal quantum algorithm for linear differential equations via Lindbladians. [[arXiv:2410.19628](https://arxiv.org/abs/2410.19628)]
 * D. An, A. Onwunta, and G. Yang. Fast-forwarding quantum algorithms for linear dissipative differential equations. [[arXiv:2410.13189](https://arxiv.org/abs/2410.13189)]
 * Y. Dong, D. An, and M. Y. Niu. Feedforward quantum singular value transformation. [[arXiv:2408.07803](https://arxiv.org/abs/2408.07803)]
 * J. Aftab, D. An, and K. Trivisa. Multi-product Hamiltonian simulation with explicit commutator scaling. [[arXiv:2403.08922](https://arxiv.org/abs/2403.08922)] (TQC talk 2024)
@@ -29,6 +28,7 @@ Preprints
 
 Peer-reviewed papers
 ======
+* Z. Shang, N. Guo, D. An, and Q. Zhao. Design nearly optimal quantum algorithm for linear differential equations via Lindbladians. Accepted by *Physical Review Letters*. [[arXiv](https://arxiv.org/abs/2410.19628)]
 * P. C. S. Costa, M. E.S. Morales, D. An, and Y. R. Sanders. Assessing quantum and classical approaches to combinatorial optimization: testing quadratic speed-ups for heuristic algorithms. Accepted by *Physical Review A*. [[arXiv](https://arxiv.org/abs/2412.13035)]
 * D. An, J. Liu, D. Wang, and Q. Zhao. Quantum differential equation solvers: limitations and fast-forwarding. *Communications in Mathematical Physics* 406 (8), 189, 2025. [[doi](https://doi.org/10.1007/s00220-025-05358-7)][[arXiv](https://arxiv.org/abs/2211.05246)]
 * J. Liu, D. An, D. Fang, J. Wang, G. Low, and S. Jordan. Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation. *Communications in Mathematical Physics* 404, 963–1020, 2023. [[doi](https://doi.org/10.1007/s00220-023-04857-9)][[arXiv](https://arxiv.org/abs/2205.01141)]
