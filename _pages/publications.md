@@ -13,6 +13,7 @@ author_profile: true
 
 Preprints
 ======
+* X. Huang, and D. An. Fourier transform-based linear combination of Hamiltonian simulation. [[arXiv:2508.19596](https://arxiv.org/abs/2508.19596)]
 * G. Yang, A. Onwunta, and D. An. Quantum differential equation solvers with low state preparation cost: eliminating the time dependence in dissipative equations. [[arXiv:2508.15170](https://arxiv.org/abs/2508.15170)]
 * Z. Lai, J. Hu, D. An, and Z. Wen. Extended Parameter shift rules with minimal derivative variance for parameterized quantum circuits. [[arXiv:2508.08802](https://arxiv.org/abs/2508.08802)]
 * Z. Lai, J. Hu, T. Ko, J. Wu, and D. An. Optimal interpolation-based coordinate descent method for parameterized quantum circuits. [[arXiv:2503.04620](https://arxiv.org/abs/2503.04620)]
