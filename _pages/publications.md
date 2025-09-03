@@ -13,6 +13,7 @@ author_profile: true
 
 Preprints
 ======
+* D. An, P. C. S. Costa, and D. W. Berry. Large time-step discretisation of adiabatic quantum dynamics. [[arXiv:2509.00171](https://arxiv.org/abs/2509.00171)]
 * X. Huang, and D. An. Fourier transform-based linear combination of Hamiltonian simulation. [[arXiv:2508.19596](https://arxiv.org/abs/2508.19596)]
 * G. Yang, A. Onwunta, and D. An. Quantum differential equation solvers with low state preparation cost: eliminating the time dependence in dissipative equations. [[arXiv:2508.15170](https://arxiv.org/abs/2508.15170)]
 * Z. Lai, J. Hu, D. An, and Z. Wen. Extended Parameter shift rules with minimal derivative variance for parameterized quantum circuits. [[arXiv:2508.08802](https://arxiv.org/abs/2508.08802)]
@@ -30,7 +31,7 @@ Preprints
 Peer-reviewed papers
 ======
 * Z. Shang, N. Guo, D. An, and Q. Zhao. Design nearly optimal quantum algorithm for linear differential equations via Lindbladians. Accepted by *Physical Review Letters*. [[arXiv](https://arxiv.org/abs/2410.19628)]
-* P. C. S. Costa, M. E.S. Morales, D. An, and Y. R. Sanders. Assessing quantum and classical approaches to combinatorial optimization: testing quadratic speed-ups for heuristic algorithms. Accepted by *Physical Review A*. [[arXiv](https://arxiv.org/abs/2412.13035)]
+* P. C. S. Costa, M. E.S. Morales, D. An, and Y. R. Sanders. Assessing quantum and classical approaches to combinatorial optimization: Testing quadratic speed-ups for heuristic algorithms. *Physical Review A* 112 (2), 022429, 2025. [[doi](https://doi.org/10.1103/hm1z-z9p2)][[arXiv](https://arxiv.org/abs/2412.13035)]
 * D. An, J. Liu, D. Wang, and Q. Zhao. Quantum differential equation solvers: limitations and fast-forwarding. *Communications in Mathematical Physics* 406 (8), 189, 2025. [[doi](https://doi.org/10.1007/s00220-025-05358-7)][[arXiv](https://arxiv.org/abs/2211.05246)]
 * J. Liu, D. An, D. Fang, J. Wang, G. Low, and S. Jordan. Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation. *Communications in Mathematical Physics* 404, 963–1020, 2023. [[doi](https://doi.org/10.1007/s00220-023-04857-9)][[arXiv](https://arxiv.org/abs/2205.01141)]
 * D. An, J. Liu, and L. Lin. Linear combination of Hamiltonian simulation for nonunitary dynamics with optimal state preparation cost. *Physical Review Letters* 131, 150603, 2023. [[doi](https://doi.org/10.1103/PhysRevLett.131.150603)][[arXiv](https://arxiv.org/abs/2303.01029)] (QIP talk 2024)
