@@ -40,7 +40,7 @@ redirect_from:
 
 作业
 ======
-* 作业1，截止日期：第3周周二（09/23）
+* [作业1](http://dong-an.github.io/files/AM_hw1.pdf)，截止日期：第3周周二（09/23）
 * 作业2，截止日期：第6周周二（10/14）
 * 作业3，截止日期：第8周周二（10/28）
 * 作业4，截止日期：第11周周二（11/18）
@@ -49,7 +49,8 @@ redirect_from:
 
 课件
 ======
-* 第一章: 1.1, 1.2, 1.3, 1.4, 1.5, 1.6
+* [课程介绍](http://dong-an.github.io/files/AM_Section_0.pdf)
+* 第一章: [1.1](http://dong-an.github.io/files/AM_Section_1_1.pdf), [1.2]((http://dong-an.github.io/files/AM_Section_1_2.pdf)), 1.3, 1.4, 1.5, 1.6
 * 第二章:
 * 第三章:
 * 第四章:
