@@ -13,6 +13,7 @@ author_profile: true
 
 Preprints
 ======
+* Z. Shang, D. An, and C. Shao. Exponential Lindbladian fast forwarding and exponential amplification of certain Gibbs state properties. [[arXiv:2509.09517](https://arxiv.org/abs/2509.09517)]
 * D. An, P. C. S. Costa, and D. W. Berry. Large time-step discretisation of adiabatic quantum dynamics. [[arXiv:2509.00171](https://arxiv.org/abs/2509.00171)]
 * X. Huang, and D. An. Fourier transform-based linear combination of Hamiltonian simulation. [[arXiv:2508.19596](https://arxiv.org/abs/2508.19596)]
 * G. Yang, A. Onwunta, and D. An. Quantum differential equation solvers with low state preparation cost: eliminating the time dependence in dissipative equations. [[arXiv:2508.15170](https://arxiv.org/abs/2508.15170)]
