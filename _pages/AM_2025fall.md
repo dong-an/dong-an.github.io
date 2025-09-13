@@ -50,7 +50,7 @@ redirect_from:
 课件
 ======
 * [课程介绍](http://dong-an.github.io/files/AM_Section_0.pdf)
-* 第一章: [1.1](http://dong-an.github.io/files/AM_Section_1_1.pdf), [1.2](http://dong-an.github.io/files/AM_Section_1_2.pdf), [1.3](http://dong-an.github.io/files/AM_Section_1_3.pdf), 1.4, 1.5, 1.6
+* 第一章: [1.1](http://dong-an.github.io/files/AM_Section_1_1.pdf), [1.2](http://dong-an.github.io/files/AM_Section_1_2.pdf), [1.3](http://dong-an.github.io/files/AM_Section_1_3.pdf), [1.4](http://dong-an.github.io/files/AM_Section_1_4.pdf), 1.5, 1.6
 * 第二章:
 * 第三章:
 * 第四章:
@@ -59,5 +59,5 @@ redirect_from:
 
 进度
 ======
-* 09/08 (1.1-1.2.2), 09/10 (1.2.2-1.3.2)
+* 09/08 (1.1-1.2.2), 09/10 (1.2.2-1.3.2), 09/15, 09/17, 09/22, 09/24, 09/29
 
