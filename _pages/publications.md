@@ -31,7 +31,7 @@ Preprints
 
 Peer-reviewed papers
 ======
-* Z. Shang, N. Guo, D. An, and Q. Zhao. Design nearly optimal quantum algorithm for linear differential equations via Lindbladians. Accepted by *Physical Review Letters*. [[arXiv](https://arxiv.org/abs/2410.19628)]
+* Z. Shang, N. Guo, D. An, and Q. Zhao. Design nearly optimal quantum algorithm for linear differential equations via Lindbladians. *Physical Review Letters* 135, 120604, 2025. [[doi](https://doi.org/10.1103/cvl9-97qg)][[arXiv](https://arxiv.org/abs/2410.19628)]
 * P. C. S. Costa, M. E.S. Morales, D. An, and Y. R. Sanders. Assessing quantum and classical approaches to combinatorial optimization: Testing quadratic speed-ups for heuristic algorithms. *Physical Review A* 112 (2), 022429, 2025. [[doi](https://doi.org/10.1103/hm1z-z9p2)][[arXiv](https://arxiv.org/abs/2412.13035)]
 * D. An, J. Liu, D. Wang, and Q. Zhao. Quantum differential equation solvers: limitations and fast-forwarding. *Communications in Mathematical Physics* 406 (8), 189, 2025. [[doi](https://doi.org/10.1007/s00220-025-05358-7)][[arXiv](https://arxiv.org/abs/2211.05246)]
 * J. Liu, D. An, D. Fang, J. Wang, G. Low, and S. Jordan. Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation. *Communications in Mathematical Physics* 404, 963–1020, 2023. [[doi](https://doi.org/10.1007/s00220-023-04857-9)][[arXiv](https://arxiv.org/abs/2205.01141)]
