@@ -13,6 +13,8 @@ author_profile: true
 
 Preprints
 ======
+* Y. Lu, Y. Huang, D. An, Q. Zhao, D. Lv, and X. Yuan. Digital adiabatic evolution is universally accurate. [[arXiv:2510.12237](https://arxiv.org/abs/2510.12237)]
+* H. Nie, D. An, and Z. Wen. Quantum Alternating Direction Method of Multipliers for Semidefinite Programming. [[arXiv:2510.10056](https://arxiv.org/abs/2510.10056)]
 * Z. Shang, D. An, and C. Shao. Exponential Lindbladian fast forwarding and exponential amplification of certain Gibbs state properties. [[arXiv:2509.09517](https://arxiv.org/abs/2509.09517)]
 * D. An, P. C. S. Costa, and D. W. Berry. Large time-step discretisation of adiabatic quantum dynamics. [[arXiv:2509.00171](https://arxiv.org/abs/2509.00171)]
 * X. Huang, and D. An. Fourier transform-based linear combination of Hamiltonian simulation. [[arXiv:2508.19596](https://arxiv.org/abs/2508.19596)]
