@@ -26,12 +26,12 @@ Preprints
 * D. An, A. Onwunta, and G. Yang. Fast-forwarding quantum algorithms for linear dissipative differential equations. [[arXiv:2410.13189](https://arxiv.org/abs/2410.13189)]
 * Y. Dong, D. An, and M. Y. Niu. Feedforward quantum singular value transformation. [[arXiv:2408.07803](https://arxiv.org/abs/2408.07803)]
 * J. Aftab, D. An, and K. Trivisa. Multi-product Hamiltonian simulation with explicit commutator scaling. [[arXiv:2403.08922](https://arxiv.org/abs/2403.08922)] (TQC talk 2024)
-* D. An, A. M. Childs, and L. Lin. Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters. [[arXiv:2312.03916](https://arxiv.org/abs/2312.03916)] (QIP talk 2025, merged with [arXiv:2411.04010])
 * D. An, and K. Trivisa. Quantum algorithms for linear and non-linear fractional reaction-diffusion equations. [[arXiv:2310.18900](https://arxiv.org/abs/2310.18900)]
 
 
 Peer-reviewed papers
 ======
+* D. An, A. M. Childs, and L. Lin. Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters. Accepted by *Communications in Mathematical Physics*. [[arXiv](https://arxiv.org/abs/2312.03916)] (QIP talk 2025, merged with [arXiv:2411.04010])
 * P. C. S. Costa, D. An, R. Babbush, and D. W. Berry. The discrete adiabatic quantum linear system solver has lower constant factors than the randomized adiabatic solver. *Quantum* 9, 1887 (2025). [[doi](https://doi.org/10.22331/q-2025-10-20-1887)][[arXiv](https://arxiv.org/abs/2312.07690)]
 * Z. Shang, N. Guo, D. An, and Q. Zhao. Design nearly optimal quantum algorithm for linear differential equations via Lindbladians. *Physical Review Letters* 135, 120604 (2025). [[doi](https://doi.org/10.1103/cvl9-97qg)][[arXiv](https://arxiv.org/abs/2410.19628)]
 * P. C. S. Costa, M. E.S. Morales, D. An, and Y. R. Sanders. Assessing quantum and classical approaches to combinatorial optimization: Testing quadratic speed-ups for heuristic algorithms. *Physical Review A* 112 (2), 022429 (2025). [[doi](https://doi.org/10.1103/hm1z-z9p2)][[arXiv](https://arxiv.org/abs/2412.13035)]
