@@ -21,6 +21,7 @@ Currently I mainly work on exploring power and limitations of quantum algorithms
 
 News
 ======
+* 2025/11, our paper "[Quantum algorithms for linear and non-linear fractional reaction-diffusion equations](https://arxiv.org/abs/2310.18900)" was accepted by Quantum. 
 * 2025/11, our paper "[Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters](https://arxiv.org/abs/2312.03916)" was accepted by Communications in Mathematical Physics. 
 * 2025/10, our paper "[The discrete adiabatic quantum linear system solver has lower constant factors than the randomized adiabatic solver](https://arxiv.org/abs/2312.07690)" was accepted by Quantum. 
 * 2025/08, our paper "[Design nearly optimal quantum algorithm for linear differential equations via Lindbladians](https://arxiv.org/abs/2410.19628)" was accepted by Physical Review Letters. 
