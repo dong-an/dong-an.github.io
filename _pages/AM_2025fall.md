@@ -65,7 +65,7 @@ redirect_from:
 * [作业3](http://dong-an.github.io/files/AM_hw3.pdf)，截止日期：第8周周二（10/28）
 * [作业4](http://dong-an.github.io/files/AM_hw4.pdf)，截止日期：第11周周二（11/18）
 * [作业5](http://dong-an.github.io/files/AM_hw5.pdf)，截止日期：第13周周二（12/02）
-* 作业6，截止日期：第15周周二（12/16）
+* [作业6](http://dong-an.github.io/files/AM_hw6.pdf)，截止日期：第15周周二（12/16）
 
 课件
 ======
