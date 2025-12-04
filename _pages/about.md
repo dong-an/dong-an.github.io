@@ -21,6 +21,7 @@ Currently I mainly work on exploring power and limitations of quantum algorithms
 
 News
 ======
+* 2025/12, our paper "[Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation](https://arxiv.org/abs/2411.04010)" was accepted by SIAM Journal on Computing. 
 * 2025/11, our paper "[Quantum algorithms for linear and non-linear fractional reaction-diffusion equations](https://arxiv.org/abs/2310.18900)" was accepted by Quantum. 
 * 2025/11, our paper "[Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters](https://arxiv.org/abs/2312.03916)" was accepted by Communications in Mathematical Physics. 
 * 2025/10, our paper "[The discrete adiabatic quantum linear system solver has lower constant factors than the randomized adiabatic solver](https://arxiv.org/abs/2312.07690)" was accepted by Quantum. 
