@@ -21,7 +21,6 @@ Preprints
 * G. Yang, A. Onwunta, and D. An. Quantum differential equation solvers with low state preparation cost: eliminating the time dependence in dissipative equations. [[arXiv:2508.15170](https://arxiv.org/abs/2508.15170)]
 * Z. Lai, J. Hu, D. An, and Z. Wen. Extended Parameter shift rules with minimal derivative variance for parameterized quantum circuits. [[arXiv:2508.08802](https://arxiv.org/abs/2508.08802)]
 * Z. Lai, J. Hu, T. Ko, J. Wu, and D. An. Optimal interpolation-based coordinate descent method for parameterized quantum circuits. [[arXiv:2503.04620](https://arxiv.org/abs/2503.04620)]
-* D. An, A. M. Childs, L. Lin, and L. Ying. Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation. [[arXiv:2411.04010](https://arxiv.org/abs/2411.04010)] (QIP talk 2025, merged with [arXiv:2312.03916])
 * M. E. S. Morales, L. Pira, P. Schleich, K. Koor, P. C. S. Costa, D. An, L. Lin, P. Rebentrost, and D. W. Berry. Quantum linear system solvers: A survey of algorithms and applications. [[arXiv:2411.02522](https://arxiv.org/abs/2411.02522)]
 * D. An, A. Onwunta, and G. Yang. Fast-forwarding quantum algorithms for linear dissipative differential equations. [[arXiv:2410.13189](https://arxiv.org/abs/2410.13189)]
 * Y. Dong, D. An, and M. Y. Niu. Feedforward quantum singular value transformation. [[arXiv:2408.07803](https://arxiv.org/abs/2408.07803)]
@@ -30,6 +29,7 @@ Preprints
 
 Peer-reviewed papers
 ======
+* D. An, A. M. Childs, L. Lin, and L. Ying. Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation. Accepted by *SIAM Journal on Computing*. [[arXiv](https://arxiv.org/abs/2411.04010)] (QIP talk 2025, merged with [arXiv:2312.03916])
 * D. An, and K. Trivisa. Quantum algorithms for linear and non-linear fractional reaction-diffusion equations. Accepted by *Quantum*. [[arXiv](https://arxiv.org/abs/2310.18900)]
 * D. An, A. M. Childs, and L. Lin. Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters. Accepted by *Communications in Mathematical Physics*. [[arXiv](https://arxiv.org/abs/2312.03916)] (QIP talk 2025, merged with [arXiv:2411.04010])
 * P. C. S. Costa, D. An, R. Babbush, and D. W. Berry. The discrete adiabatic quantum linear system solver has lower constant factors than the randomized adiabatic solver. *Quantum* 9, 1887 (2025). [[doi](https://doi.org/10.22331/q-2025-10-20-1887)][[arXiv](https://arxiv.org/abs/2312.07690)]
