@@ -19,6 +19,11 @@ Currently I mainly work on exploring power and limitations of quantum algorithms
   Email: dongan@pku.edu.cn
 
 
+Joining us
+======
+We are constantly recruiting undergraduate, PhD students and postdocs. Please email me directly if you are interested in joining us! 
+
+
 News
 ======
 * 2025/12, our paper "[Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation](https://arxiv.org/abs/2411.04010)" was accepted by SIAM Journal on Computing. 
@@ -31,7 +36,3 @@ News
 * 2025/03, I will serve as a PC member of [AQIS 2025](http://aqis-conf.org/2025/). Talk and poster submissions are welcome! 
 * 2024/12, our papers "[Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters](https://arxiv.org/abs/2312.03916)" and "[Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation](https://arxiv.org/abs/2411.04010)" were accepted as a merged talk by [QIP 2025](https://rsvp.duke.edu/event/qip2025/home). 
 * 2024/09, I joined Beijing International Center for Mathematical Research (BICMR), Peking University as an assistant professor. 
-
-Joining us
-======
-We are constantly recruiting undergraduate, PhD students and postdocs. Please email me directly if you are interested in joining us! 
