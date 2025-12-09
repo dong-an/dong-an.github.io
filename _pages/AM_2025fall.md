@@ -75,7 +75,7 @@ redirect_from:
 * 第三章: [3.1](http://dong-an.github.io/files/AM_Section_3_1.pdf), [3.2](http://dong-an.github.io/files/AM_Section_3_2.pdf), [3.3](http://dong-an.github.io/files/AM_Section_3_3.pdf), [3.4](http://dong-an.github.io/files/AM_Section_3_4.pdf), [3.5](http://dong-an.github.io/files/AM_Section_3_5.pdf), 3.6
 * 第四章: [4.1](http://dong-an.github.io/files/AM_Section_4_1.pdf), [4.2](http://dong-an.github.io/files/AM_Section_4_2.pdf), [4.3 & 4.4](http://dong-an.github.io/files/AM_Section_4_3.pdf), [4.5 & 4.6 & 4.7](http://dong-an.github.io/files/AM_Section_4_5.pdf)
 * 第五章: [5.1 & 5.2](http://dong-an.github.io/files/AM_Section_5_1.pdf), [5.3](http://dong-an.github.io/files/AM_Section_5_3.pdf), [5.4](http://dong-an.github.io/files/AM_Section_5_4.pdf), [5.5](http://dong-an.github.io/files/AM_Section_5_5.pdf)
-* 第六章: [6.1](http://dong-an.github.io/files/AM_Section_6_1.pdf), [6.2](http://dong-an.github.io/files/AM_Section_6_2.pdf), [6.3](http://dong-an.github.io/files/AM_Section_6_3.pdf), [6.4](http://dong-an.github.io/files/AM_Section_6_4.pdf), 6.5, 6.6, 6.7, 6.8, 6.9, 6.10
+* 第六章: [6.1](http://dong-an.github.io/files/AM_Section_6_1.pdf), [6.2](http://dong-an.github.io/files/AM_Section_6_2.pdf), [6.3](http://dong-an.github.io/files/AM_Section_6_3.pdf), [6.4](http://dong-an.github.io/files/AM_Section_6_4.pdf), [6.5](http://dong-an.github.io/files/AM_Section_6_5.pdf), 6.6, 6.7, 6.8, 6.9, 6.10
 
 进度
 ======
