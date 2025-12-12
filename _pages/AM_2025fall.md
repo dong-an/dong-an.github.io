@@ -75,11 +75,11 @@ redirect_from:
 * 第三章: [3.1](http://dong-an.github.io/files/AM_Section_3_1.pdf), [3.2](http://dong-an.github.io/files/AM_Section_3_2.pdf), [3.3](http://dong-an.github.io/files/AM_Section_3_3.pdf), [3.4](http://dong-an.github.io/files/AM_Section_3_4.pdf), [3.5](http://dong-an.github.io/files/AM_Section_3_5.pdf), 3.6
 * 第四章: [4.1](http://dong-an.github.io/files/AM_Section_4_1.pdf), [4.2](http://dong-an.github.io/files/AM_Section_4_2.pdf), [4.3 & 4.4](http://dong-an.github.io/files/AM_Section_4_3.pdf), [4.5 & 4.6 & 4.7](http://dong-an.github.io/files/AM_Section_4_5.pdf)
 * 第五章: [5.1 & 5.2](http://dong-an.github.io/files/AM_Section_5_1.pdf), [5.3](http://dong-an.github.io/files/AM_Section_5_3.pdf), [5.4](http://dong-an.github.io/files/AM_Section_5_4.pdf), [5.5](http://dong-an.github.io/files/AM_Section_5_5.pdf)
-* 第六章: [6.1](http://dong-an.github.io/files/AM_Section_6_1.pdf), [6.2](http://dong-an.github.io/files/AM_Section_6_2.pdf), [6.3](http://dong-an.github.io/files/AM_Section_6_3.pdf), [6.4](http://dong-an.github.io/files/AM_Section_6_4.pdf), [6.5](http://dong-an.github.io/files/AM_Section_6_5.pdf), 6.6, 6.7, 6.8, 6.9, 6.10
+* 第六章: [6.1](http://dong-an.github.io/files/AM_Section_6_1.pdf), [6.2](http://dong-an.github.io/files/AM_Section_6_2.pdf), [6.3](http://dong-an.github.io/files/AM_Section_6_3.pdf), [6.4](http://dong-an.github.io/files/AM_Section_6_4.pdf), [6.5](http://dong-an.github.io/files/AM_Section_6_5.pdf), [6.6](http://dong-an.github.io/files/AM_Section_6_6.pdf), 6.7, 6.8, 6.9, 6.10
 
 进度
 ======
 * 09/08 (1.1-1.2.2), 09/10 (1.2.2-1.3.2), 09/15 (1.3), 09/17 (1.4-1.5.1), 09/22 (1.5.2-2.1), 09/24 (2.2-2.3), 09/29 (2.4-2.6)
 * 10/13 (2.7-2.8), 10/15 (2.9-2.10), 10/20(3.1), 10/22(3.1-3.2), 10/27(3.3), 10/29(3.3-3.4)
 * 11/3(3.4-3.5), 11/5(4.1), 11/10(4.2), 11/12(4.3-4.4), 11/17(4.5-4.6), 11/19(4.6-5.1), 11/24(5.2-5.3), 11/26(5.4-5.5)
-* 12/1(6.1), 12/3(6.2-6.3), 12/8(6.3-6.4), 12/10(6.4-6.5), 12/15, 12/17, 12/22, 12/24
+* 12/1(6.1), 12/3(6.2-6.3), 12/8(6.3-6.4), 12/10(6.4-6.5), 12/15(6.6-6.7), 12/17(6.7-6.8), 12/22, 12/24
