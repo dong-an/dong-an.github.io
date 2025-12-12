@@ -13,6 +13,7 @@ author_profile: true
 
 Preprints
 ======
+* X. Guo, and D. An. Improved gap dependence in adiabatic state preparation by adaptive schedule. [[arXiv:2512.10329](https://arxiv.org/abs/2512.10329)]
 * C. Li, Z. Lai, D. An, J. Hu, and Z. Wen. Advancing Research via Human-AI Interactive Theorem Proving. [[arXiv:2512.09443](https://arxiv.org/abs/2512.09443)]
 * Z. Lai, D. An, J. Hu, and Z. Wen. A Grover-compatible manifold optimization algorithm for quantum search. [[arXiv:2512.08432](https://arxiv.org/abs/2512.08432)]
 * Y. Lu, Y. Huang, D. An, Q. Zhao, D. Lv, and X. Yuan. Digital adiabatic evolution is universally accurate. [[arXiv:2510.12237](https://arxiv.org/abs/2510.12237)]
