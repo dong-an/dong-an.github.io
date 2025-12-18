@@ -26,6 +26,7 @@ We are constantly recruiting undergraduate, PhD students and postdocs. Please em
 
 News
 ======
+* 2025/12, our paper "[Optimal interpolation-based coordinate descent method for parameterized quantum circuits](https://arxiv.org/abs/2503.04620)" was accepted by Communications Physics. 
 * 2025/12, our paper "[Extended Parameter shift rules with minimal derivative variance for parameterized quantum circuits](https://arxiv.org/abs/2508.08802)" was accepted by Physical Review Applied. 
 * 2025/12, our paper "[Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation](https://arxiv.org/abs/2411.04010)" was accepted by SIAM Journal on Computing. 
 * 2025/11, our paper "[Quantum algorithms for linear and non-linear fractional reaction-diffusion equations](https://arxiv.org/abs/2310.18900)" was accepted by Quantum. 
