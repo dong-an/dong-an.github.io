@@ -7,12 +7,28 @@ author_profile: true
 
 Conference talks
 ======
-* Quantum algorithms for linear differential equations and eigenvalue transformations via linear combination of Hamiltonian simulation
-  * QIP 2025, February 2025
-* The discrete adiabatic quantum linear system solver has lower constant factors than the randomized adiabatic solver
-  * (Invited talk) 25th Congress of the Australian Institute of Physics (AIP 2024), December 2024
 * Large time-step discretisation of adiabatic quantum dynamics
-  * 25th Congress of the Australian Institute of Physics (AIP 2024), December 2024
+  * East Lake Quantum Computing and Quantum Information Theory Conference, Wuhan, November 2025
+* Large time-step discretization of adiabatic quantum dynamics
+  * The 2nd Conference on Mathematics and AI Science, Dongguan, November 2025
+* Quantum algorithms for matrix eigenvalue transformation
+  * 2025 Quantum Theory and Operator Theory (QTOT) satellite conference, Beijing, August 2025
+* Quantum algorithms for matrix eigenvalue transformation
+  * 2025 Beijing-Tianjin-Hebei+ Computational Mathematics Conference, Jinan, August 2025
+* Quantum algorithms for linear differential equations: near-optimal scaling and fast-forwarding [[video](https://youtu.be/bZj6ufkEzIY?si=KfgrVlSGoSXhQe8P)]
+  * WISER Quantum Program 2025, online, July 2025
+* Fast-forwarding quantum algorithms for linear dissipative differential equations
+  * 2025 IEEE International Conference on Quantum Control, Computing and Learning (IEEE qCCL2025), Hong Kong, June 2025
+* Quantum algorithms for linear differential equations
+  * The Second Symposium on Frontiers in Fluid Mechanics and Quantum Computing, Hangzhou, May 2025
+* Quantum algorithms for linear differential equations
+  * Quantum Information and Optimization (QIOP) workshop, Kunming, April 2025
+* Quantum algorithms for linear differential equations and eigenvalue transformations via linear combination of Hamiltonian simulation
+  * QIP 2025, Durham, February 2025
+* The discrete adiabatic quantum linear system solver has lower constant factors than the randomized adiabatic solver
+  * (Invited talk) 25th Congress of the Australian Institute of Physics (AIP 2024), Melbourne, December 2024
+* Large time-step discretisation of adiabatic quantum dynamics
+  * 25th Congress of the Australian Institute of Physics (AIP 2024), Melbourne, December 2024
 * Quantum algorithms for systems of linear equations and differential equations
   * Young scholar forum in computational mathematics, Wuhan, November 2024
 * Quantum eigenvalue transformation from and beyond Hamiltonian simulation
