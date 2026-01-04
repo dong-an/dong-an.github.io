@@ -66,6 +66,10 @@ Conference talks
  
 Seminar talks
 ======
+* Quantum algorithms for scientific computation
+  * Beijing Normal University, November 2025
+* Quantum algorithms for matrix eigenvalue transformation
+  * Institute of Computing Technology, Chinese Academy of Sciences, September 2025
 * Quantum eigenvalue transformation from and beyond Hamiltonian simulation
   * Academy of Mathematics and Systems Science of the Chinese Academy of Sciences, January 2025
 * Quantum eigenvalue transformation from and beyond Hamiltonian simulation
