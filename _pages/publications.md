@@ -13,6 +13,7 @@ author_profile: true
 
 Preprints
 ======
+* S. Jiang, and D. An. Contour-integral based quantum eigenvalue transformation: analysis and applications. [[arXiv:2601.11959](https://arxiv.org/abs/2601.11959)]
 * X. Guo, and D. An. Improved gap dependence in adiabatic state preparation by adaptive schedule. [[arXiv:2512.10329](https://arxiv.org/abs/2512.10329)]
 * C. Li, Z. Lai, D. An, J. Hu, and Z. Wen. Advancing Research via Human-AI Interactive Theorem Proving. [[arXiv:2512.09443](https://arxiv.org/abs/2512.09443)]
 * Z. Lai, D. An, J. Hu, and Z. Wen. A Grover-compatible manifold optimization algorithm for quantum search. [[arXiv:2512.08432](https://arxiv.org/abs/2512.08432)]
@@ -22,18 +23,18 @@ Preprints
 * D. An, P. C. S. Costa, and D. W. Berry. Large time-step discretisation of adiabatic quantum dynamics. [[arXiv:2509.00171](https://arxiv.org/abs/2509.00171)]
 * X. Huang, and D. An. Fourier transform-based linear combination of Hamiltonian simulation. [[arXiv:2508.19596](https://arxiv.org/abs/2508.19596)]
 * G. Yang, A. Onwunta, and D. An. Quantum differential equation solvers with low state preparation cost: eliminating the time dependence in dissipative equations. [[arXiv:2508.15170](https://arxiv.org/abs/2508.15170)]
-* M. E. S. Morales, L. Pira, P. Schleich, K. Koor, P. C. S. Costa, D. An, L. Lin, P. Rebentrost, and D. W. Berry. Quantum linear system solvers: A survey of algorithms and applications. [[arXiv:2411.02522](https://arxiv.org/abs/2411.02522)]
 * Y. Dong, D. An, and M. Y. Niu. Feedforward quantum singular value transformation. [[arXiv:2408.07803](https://arxiv.org/abs/2408.07803)]
 * J. Aftab, D. An, and K. Trivisa. Multi-product Hamiltonian simulation with explicit commutator scaling. [[arXiv:2403.08922](https://arxiv.org/abs/2403.08922)] (TQC talk 2024)
 
 
 Peer-reviewed papers
 ======
+* M. E. S. Morales, L. Pira, P. Schleich, K. Koor, P. C. S. Costa, D. An, L. Lin, P. Rebentrost, and D. W. Berry. Quantum linear system solvers: A survey of algorithms and applications. Accepted by *Reviews of Modern Physics*. [[doi](https://doi.org/10.1103/x6gh-d8gh)][[arXiv](https://arxiv.org/abs/2411.02522)]
 * D. An, A. Onwunta, and G. Yang. Fast-forwarding quantum algorithms for linear dissipative differential equations. Accepted by *Quantum*. [[arXiv](https://arxiv.org/abs/2410.13189)]
-* Z. Lai, J. Hu, T. Ko, J. Wu, and D. An. Optimal interpolation-based coordinate descent method for parameterized quantum circuits. Accepted by *Communications Physics*. [[arXiv](https://arxiv.org/abs/2503.04620)]
-* Z. Lai, J. Hu, D. An, and Z. Wen. Extended Parameter shift rules with minimal derivative variance for parameterized quantum circuits. Accepted by *Physical Review Applied*. [[arXiv](https://arxiv.org/abs/2508.08802)]
+* Z. Lai, J. Hu, T. Ko, J. Wu, and D. An. Optimal interpolation-based coordinate descent method for parameterized quantum circuits. Accepted by *Communications Physics*. [[doi](https://doi.org/10.1038/s42005-025-02473-8)][[arXiv](https://arxiv.org/abs/2503.04620)]
+* Z. Lai, J. Hu, D. An, and Z. Wen. Extended Parameter shift rules with minimal derivative variance for parameterized quantum circuits. *Physical Review Applied* 25 (1), 014005 (2026). [[doi](https://doi.org/10.1103/f57b-q28w)][[arXiv](https://arxiv.org/abs/2508.08802)]
 * D. An, A. M. Childs, L. Lin, and L. Ying. Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation. Accepted by *SIAM Journal on Computing*. [[arXiv](https://arxiv.org/abs/2411.04010)] (QIP talk 2025, merged with [arXiv:2312.03916])
-* D. An, and K. Trivisa. Quantum algorithms for linear and non-linear fractional reaction-diffusion equations. Accepted by *Quantum*. [[arXiv](https://arxiv.org/abs/2310.18900)]
+* D. An, and K. Trivisa. Quantum algorithms for linear and non-linear fractional reaction-diffusion equations. *Quantum* 10, 1969 (2026). [[doi](https://doi.org/10.22331/q-2026-01-19-1969)][[arXiv](https://arxiv.org/abs/2310.18900)]
 * D. An, A. M. Childs, and L. Lin. Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters. *Communications in Mathematical Physics* 407 (1), 19 (2026). [[doi](https://doi.org/10.1007/s00220-025-05509-w)][[arXiv](https://arxiv.org/abs/2312.03916)] (QIP talk 2025, merged with [arXiv:2411.04010])
 * P. C. S. Costa, D. An, R. Babbush, and D. W. Berry. The discrete adiabatic quantum linear system solver has lower constant factors than the randomized adiabatic solver. *Quantum* 9, 1887 (2025). [[doi](https://doi.org/10.22331/q-2025-10-20-1887)][[arXiv](https://arxiv.org/abs/2312.07690)]
 * Z. Shang, N. Guo, D. An, and Q. Zhao. Design nearly optimal quantum algorithm for linear differential equations via Lindbladians. *Physical Review Letters* 135, 120604 (2025). [[doi](https://doi.org/10.1103/cvl9-97qg)][[arXiv](https://arxiv.org/abs/2410.19628)]
