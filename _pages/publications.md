@@ -13,6 +13,7 @@ author_profile: true
 
 Preprints
 ======
+* S. Liu, Y. Dong, D. An, and M. Y. Niu. Ensemble-Based Quantum Signal Processing for Error Mitigation. [[arXiv:2601.20073](https://arxiv.org/abs/2601.20073)]
 * S. Jiang, and D. An. Contour-integral based quantum eigenvalue transformation: analysis and applications. [[arXiv:2601.11959](https://arxiv.org/abs/2601.11959)]
 * X. Guo, and D. An. Improved gap dependence in adiabatic state preparation by adaptive schedule. [[arXiv:2512.10329](https://arxiv.org/abs/2512.10329)]
 * C. Li, Z. Lai, D. An, J. Hu, and Z. Wen. Advancing Research via Human-AI Interactive Theorem Proving. [[arXiv:2512.09443](https://arxiv.org/abs/2512.09443)]
@@ -30,7 +31,7 @@ Preprints
 Peer-reviewed papers
 ======
 * M. E. S. Morales, L. Pira, P. Schleich, K. Koor, P. C. S. Costa, D. An, L. Lin, P. Rebentrost, and D. W. Berry. Quantum linear system solvers: A survey of algorithms and applications. Accepted by *Reviews of Modern Physics*. [[doi](https://doi.org/10.1103/x6gh-d8gh)][[arXiv](https://arxiv.org/abs/2411.02522)]
-* D. An, A. Onwunta, and G. Yang. Fast-forwarding quantum algorithms for linear dissipative differential equations. Accepted by *Quantum*. [[arXiv](https://arxiv.org/abs/2410.13189)]
+* D. An, A. Onwunta, and G. Yang. Fast-forwarding quantum algorithms for linear dissipative differential equations. *Quantum* 10, 1986 (2026). [[doi](https://doi.org/10.22331/q-2026-01-27-1986)][[arXiv](https://arxiv.org/abs/2410.13189)]
 * Z. Lai, J. Hu, T. Ko, J. Wu, and D. An. Optimal interpolation-based coordinate descent method for parameterized quantum circuits. Accepted by *Communications Physics*. [[doi](https://doi.org/10.1038/s42005-025-02473-8)][[arXiv](https://arxiv.org/abs/2503.04620)]
 * Z. Lai, J. Hu, D. An, and Z. Wen. Extended Parameter shift rules with minimal derivative variance for parameterized quantum circuits. *Physical Review Applied* 25 (1), 014005 (2026). [[doi](https://doi.org/10.1103/f57b-q28w)][[arXiv](https://arxiv.org/abs/2508.08802)]
 * D. An, A. M. Childs, L. Lin, and L. Ying. Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation. Accepted by *SIAM Journal on Computing*. [[arXiv](https://arxiv.org/abs/2411.04010)] (QIP talk 2025, merged with [arXiv:2312.03916])
