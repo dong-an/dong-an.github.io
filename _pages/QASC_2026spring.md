@@ -10,13 +10,10 @@ redirect_from:
 
 课程通知
 ======
-* 第9周周二（4月15日）和周四（4月17日）课程暂停两次，第8周周四（4月10日）5-6节和第10周周四（4月24日）5-6节补课（补课地点不变）
-* 第2周周二（2月25日）课程暂停一次，第4周周四（3月13日）5-6节补课（补课地点不变）
-* [课程群](http://dong-an.github.io/files/group_code.JPG)
 
 时间地点
 ======
-24-25学年第2学期：三教406，每周周二7-8节，单周周四5-6节
+25-26学年第2学期：二教106，每周周二7-8节，单周周四5-6节
 
 课程简介
 ======
@@ -34,65 +31,25 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 
 课程大纲
 ======
-（当前进度25/05/20: 6.2 结束）
 
 课程介绍 [[课件](http://dong-an.github.io/files/QASC_Section_0.pdf)]
   
 1. 量子力学与量子算法基础
    
-   1.1 量子力学与量子算法基础1 [[课件](http://dong-an.github.io/files/QASC_Section_1_1.pdf)]
+   1.1 量子力学与量子算法基础1
    
-   1.2 量子算法基础2 [[课件](http://dong-an.github.io/files/QASC_Section_1_2.pdf)]
+   1.2 量子算法基础2
 
-2. 量子数值线性代数基础
-
-   2.1 向量与矩阵 [[课件](http://dong-an.github.io/files/QASC_Section_2_1.pdf)]
-
-   2.2 基本算法 [[课件](http://dong-an.github.io/files/QASC_Section_2_2.pdf)]
-
-3. 量子算法基元
-
-   3.1 量子傅立叶变换与量子相位估计 [[课件](http://dong-an.github.io/files/QASC_Section_3_1.pdf)]
-
-   3.2 量子搜索、振幅放大与振幅估计 [[课件](http://dong-an.github.io/files/QASC_Section_3_2.pdf)]
-
-   3.3 哈密顿量模拟 [[课件](http://dong-an.github.io/files/QASC_Section_3_3.pdf)]
-
-4. 线性方程组的量子算法
-
-   4.1 HHL算法 [[课件](http://dong-an.github.io/files/QASC_Section_4_1.pdf)]
-
-   4.2 LCU算法 [[课件](http://dong-an.github.io/files/QASC_Section_4_2.pdf)]
-
-5. 线性微分方程的量子算法
-
-   5.1 基于线性方程组的算法 [[课件](http://dong-an.github.io/files/QASC_Section_5_1.pdf)]
-
-   5.2 哈密顿量模拟的线性组合 [[课件](http://dong-an.github.io/files/QASC_Section_5_2.pdf)]
-
-6. 矩阵函数的量子算法
-
-   6.1 厄米矩阵函数 [[课件](http://dong-an.github.io/files/QASC_Section_6_1.pdf)]
-
-   6.2 量子奇异值变换 [[课件](http://dong-an.github.io/files/QASC_Section_6_2.pdf)]
-
-   6.3 应用 [[课件](http://dong-an.github.io/files/QASC_Section_6_3.pdf)]
-
-7. 特征值问题的量子算法
-
-   7.1 绝热量子计算和变分量子算法 [[课件](http://dong-an.github.io/files/QASC_Section_7_1.pdf)]
-
-课程总结 [[课件](http://dong-an.github.io/files/QASC_Summary.pdf)]
 
 
 作业
 ======
-* [作业1](http://dong-an.github.io/files/QASC_hw1.pdf)，截止日期：第4周周二（3月11日）
-* [作业2](http://dong-an.github.io/files/QASC_hw2.pdf)，截止日期：第6周周二（3月25日）
-* [作业3](http://dong-an.github.io/files/QASC_hw3.pdf)，截止日期：第8周周二（4月8日）
-* [作业4](http://dong-an.github.io/files/QASC_hw4.pdf)，截止日期：第11周周二（4月29日）
-* [作业5](http://dong-an.github.io/files/QASC_hw5.pdf)，截止日期：第14周周二（5月20日）
-* [作业6](http://dong-an.github.io/files/QASC_hw6.pdf)，截止日期：第16周周二（6月3日）
+* 作业1，截止日期：第4周周二（3月11日）
+* 作业2，截止日期：第6周周二（3月25日）
+* 作业3，截止日期：第8周周二（4月8日）
+* 作业4，截止日期：第11周周二（4月29日）
+* 作业5，截止日期：第14周周二（5月20日）
+* 作业6，截止日期：第16周周二（6月3日）
 
 
 
