@@ -32,7 +32,7 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 课程大纲
 ======
 
-课程介绍 [[课件](http://dong-an.github.io/files/QASC_Section_0.pdf)]
+课程介绍
   
 1. 量子力学与量子算法基础
    
@@ -44,12 +44,7 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 
 作业
 ======
-* 作业1，截止日期：第4周周二（3月11日）
-* 作业2，截止日期：第6周周二（3月25日）
-* 作业3，截止日期：第8周周二（4月8日）
-* 作业4，截止日期：第11周周二（4月29日）
-* 作业5，截止日期：第14周周二（5月20日）
-* 作业6，截止日期：第16周周二（6月3日）
-
-
+* 作业1，截止日期：第6周周二（4月7日）
+* 作业2，截止日期：第11周周二（5月12日）
+* 作业3，截止日期：第15周周二（6月9日）
 
