@@ -1,5 +1,5 @@
 ---
-permalink: /QASC/
+permalink: /QASC2025Spring/
 title: "科学计算中的量子算法"
 excerpt: "科学计算中的量子算法课程主页"
 author_profile: false
