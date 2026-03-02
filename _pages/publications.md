@@ -13,6 +13,7 @@ author_profile: true
 
 Preprints
 ======
+* Z. Lai, H. Nie, J. Wu, and D. An. Quantum circuit design from a retraction-based Riemannian optimization framework. [[arXiv:2602.20605](https://arxiv.org/abs/2602.20605)]
 * S. Liu, Y. Dong, D. An, and M. Y. Niu. Ensemble-Based Quantum Signal Processing for Error Mitigation. [[arXiv:2601.20073](https://arxiv.org/abs/2601.20073)]
 * S. Jiang, and D. An. Contour-integral based quantum eigenvalue transformation: analysis and applications. [[arXiv:2601.11959](https://arxiv.org/abs/2601.11959)]
 * X. Guo, and D. An. Improved gap dependence in adiabatic state preparation by adaptive schedule. [[arXiv:2512.10329](https://arxiv.org/abs/2512.10329)]
