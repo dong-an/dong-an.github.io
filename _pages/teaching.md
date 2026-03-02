@@ -9,6 +9,7 @@ author_profile: true
 
 Lecturer
 ======
+* Quantum algorithms for scientific computation, Peking University, Spring 2026 [[Website (in Chinese)](/QASC)]
 * Advanced Mathematics (B), Peking University, Fall 2025 [[Website (in Chinese)](/AM2025Fall)]
 * Quantum algorithms for scientific computation, Peking University, Spring 2025 [[Website (in Chinese)](/QASC2025Spring)]
 * Introduction to quantum linear algebra, Mathematical and Computational Challenges in Quantum Computing Tutorials, IPAM at UCLA, Fall 2023 [[slides](http://helper.ipam.ucla.edu/publications/cqctut/cqctut_19840.pdf)]
