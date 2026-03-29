@@ -46,7 +46,9 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 
    2.2 量子数值线性代数基本算法[[课件](http://dong-an.github.io/files/QASC_Section_2_2-26.pdf)]
 
-   
+3. 矩阵函数的量子算法
+
+   3.1 厄米矩阵函数[[课件](http://dong-an.github.io/files/QASC_Section_3_1_26s.pdf)]
 
 
 
