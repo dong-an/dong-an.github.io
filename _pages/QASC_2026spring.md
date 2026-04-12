@@ -50,6 +50,15 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 
    3.1 厄米矩阵函数[[课件](http://dong-an.github.io/files/QASC_Section_3_1_26s.pdf)]
 
+   3.2 量子奇异值变换[[课件](http://dong-an.github.io/files/QASC_Section_3_2_26s.pdf)]
+
+4. 量子算法基元
+
+5. 哈密顿量模拟的量子算法
+
+6. 线性方程组的量子算法
+
+7. 微分方程的量子算法
 
 
 作业
