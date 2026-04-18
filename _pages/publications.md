@@ -20,7 +20,6 @@ Preprints
 * X. Guo, and D. An. Improved gap dependence in adiabatic state preparation by adaptive schedule. [[arXiv:2512.10329](https://arxiv.org/abs/2512.10329)]
 * C. Li, Z. Lai, D. An, J. Hu, and Z. Wen. Advancing Research via Human-AI Interactive Theorem Proving. [[arXiv:2512.09443](https://arxiv.org/abs/2512.09443)]
 * Z. Lai, D. An, J. Hu, and Z. Wen. A Grover-compatible manifold optimization algorithm for quantum search. [[arXiv:2512.08432](https://arxiv.org/abs/2512.08432)]
-* Y. Lu, Y. Huang, D. An, Q. Zhao, D. Lv, and X. Yuan. Digital adiabatic evolution is universally accurate. [[arXiv:2510.12237](https://arxiv.org/abs/2510.12237)]
 * H. Nie, D. An, and Z. Wen. Quantum Alternating Direction Method of Multipliers for Semidefinite Programming. [[arXiv:2510.10056](https://arxiv.org/abs/2510.10056)]
 * Z. Shang, D. An, and C. Shao. Exponential Lindbladian fast forwarding and exponential amplification of certain Gibbs state properties. [[arXiv:2509.09517](https://arxiv.org/abs/2509.09517)]
 * D. An, P. C. S. Costa, and D. W. Berry. Large time-step discretisation of adiabatic quantum dynamics. [[arXiv:2509.00171](https://arxiv.org/abs/2509.00171)]
@@ -32,6 +31,7 @@ Preprints
 
 Peer-reviewed papers
 ======
+* Y. Lu, Y. Huang, D. An, Q. Zhao, D. Lv, and X. Yuan. Digital adiabatic evolution is universally accurate. Accepted by *Nature Communications*. [[arXiv](https://arxiv.org/abs/2510.12237)]
 * M. E. S. Morales, L. Pira, P. Schleich, K. Koor, P. C. S. Costa, D. An, L. Lin, P. Rebentrost, and D. W. Berry. Quantum linear system solvers: A survey of algorithms and applications. Accepted by *Reviews of Modern Physics*. [[doi](https://doi.org/10.1103/x6gh-d8gh)][[arXiv](https://arxiv.org/abs/2411.02522)]
 * D. An, A. Onwunta, and G. Yang. Fast-forwarding quantum algorithms for linear dissipative differential equations. *Quantum* 10, 1986 (2026). [[doi](https://doi.org/10.22331/q-2026-01-27-1986)][[arXiv](https://arxiv.org/abs/2410.13189)]
 * Z. Lai, J. Hu, T. Ko, J. Wu, and D. An. Optimal interpolation-based coordinate descent method for parameterized quantum circuits. *Communications Physics* 9, Article number: 41 (2026). [[doi](https://doi.org/10.1038/s42005-025-02473-8)][[arXiv](https://arxiv.org/abs/2503.04620)]
