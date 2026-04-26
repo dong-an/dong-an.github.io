@@ -58,7 +58,7 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 
    4.2 量子相位估计[[课件](http://dong-an.github.io/files/QASC_Section_4_2_26s.pdf)]
 
-   4.3 量子搜索、量子振幅放大与量子振幅估计
+   4.3 量子搜索、量子振幅放大与量子振幅估计[[课件](http://dong-an.github.io/files/QASC_Section_4_3_26s.pdf)]
 
 6. 哈密顿量模拟的量子算法
 
