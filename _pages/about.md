@@ -26,6 +26,8 @@ We are constantly recruiting undergraduate, PhD students and postdocs. Please em
 
 News
 ======
+* 2026/05, our paper "[Exponential Lindbladian fast forwarding and exponential amplification of certain Gibbs state properties](https://arxiv.org/abs/2509.09517)" was accepted by Reports on Progress in Physics. 
+* 2026/05, our paper "[Digital adiabatic evolution is universally accurate](https://arxiv.org/abs/2510.12237)" was accepted by Nature Communications. 
 * 2026/02, I will serve as a PC member of [QSim 2026](https://qsimconference.org/). Talk and poster [submissions](https://qsimconference.org/submissions/) are welcome (talk submissions due on April 12, poster submissions due on July 10)
 * 2026/01, our paper "[Quantum linear system solvers: A survey of algorithms and applications](https://arxiv.org/abs/2411.02522)" was accepted by Reviews of Modern Physics. 
 * 2026/01, our paper "[Fast-forwarding quantum algorithms for linear dissipative differential equations](https://arxiv.org/abs/2410.13189)" was accepted by Quantum. 
