@@ -62,9 +62,11 @@ Lin Lin, Lecture Notes on Quantum Algorithms for Scientific Computation [[arXiv:
 
 5. 哈密顿量模拟的量子算法[[课件](http://dong-an.github.io/files/QASC_Section_5_1_26s.pdf)]
 
-6. 线性方程组的量子算法
+6. 线性方程组的量子算法[[课件](http://dong-an.github.io/files/QASC_Section_6_1_26s.pdf)]
 
 7. 微分方程的量子算法
+
+8. 特征值问题的量子算法
 
 
 作业
