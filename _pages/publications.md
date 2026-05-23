@@ -13,6 +13,8 @@ author_profile: true
 
 Preprints
 ======
+* P. C. S. Costa, A. M. Dalzell, D. An, and D. W. Berry. Constant Factor Analysis of Optimal Quantum Linear Solvers in Practice. [[arXiv:2604.22185](https://arxiv.org/abs/2604.22185)]
+* Z. Lai, D. An, J. Hu, and Z. Wen. Achieving double-logarithmic precision dependence in optimization-based quantum unstructured search. [[arXiv:2603.26039](https://arxiv.org/abs/2603.26039)]
 * X. Li, A. B. Catli, H. K. Lim, M. Pocrnic, D. An, J.-P. Liu, and N. Wiebe. Efficient Quantum Simulation for Nonlinear Stochastic Differential Equations. [[arXiv:2603.12398](https://arxiv.org/abs/2603.12398)]
 * Z. Lai, H. Nie, J. Wu, and D. An. Quantum circuit design from a retraction-based Riemannian optimization framework. [[arXiv:2602.20605](https://arxiv.org/abs/2602.20605)]
 * S. Liu, Y. Dong, D. An, and M. Y. Niu. Ensemble-Based Quantum Signal Processing for Error Mitigation. [[arXiv:2601.20073](https://arxiv.org/abs/2601.20073)]
