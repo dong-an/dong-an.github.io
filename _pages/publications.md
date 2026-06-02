@@ -13,6 +13,7 @@ author_profile: true
 
 Preprints
 ======
+* H. Nie, Z. Lai, and D. An. Pauli-structured preconditioning for quantum linear system solvers. [[arXiv:2606.01733](https://arxiv.org/abs/2606.01733)]
 * P. C. S. Costa, A. M. Dalzell, D. An, and D. W. Berry. Constant Factor Analysis of Optimal Quantum Linear Solvers in Practice. [[arXiv:2604.22185](https://arxiv.org/abs/2604.22185)]
 * Z. Lai, D. An, J. Hu, and Z. Wen. Achieving double-logarithmic precision dependence in optimization-based quantum unstructured search. [[arXiv:2603.26039](https://arxiv.org/abs/2603.26039)]
 * X. Li, A. B. Catli, H. K. Lim, M. Pocrnic, D. An, J.-P. Liu, and N. Wiebe. Efficient Quantum Simulation for Nonlinear Stochastic Differential Equations. [[arXiv:2603.12398](https://arxiv.org/abs/2603.12398)]
