@@ -13,6 +13,7 @@ author_profile: true
 
 Preprints
 ======
+* B. Zhang, D. An, Z. Meng, Y. Yu, X. Xiao, Z. Lu, and Y. Yang. Quantum simulation of real-world nonlinear dynamics via Koopman method. [[arXiv:2607.07338](https://arxiv.org/abs/2607.07338)]
 * J. Aftab, D. An, and K. Trivisa. Linear combination of Hamiltonian simulation with commutator scaling. [[arXiv:2606.11475](https://arxiv.org/abs/2606.11475)]
 * H. Nie, Z. Lai, and D. An. Pauli-structured preconditioning for quantum linear system solvers. [[arXiv:2606.01733](https://arxiv.org/abs/2606.01733)]
 * P. C. S. Costa, A. M. Dalzell, D. An, and D. W. Berry. Constant Factor Analysis of Optimal Quantum Linear Solvers in Practice. [[arXiv:2604.22185](https://arxiv.org/abs/2604.22185)]
