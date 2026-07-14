@@ -24,8 +24,6 @@ Preprints
 * S. Jiang, and D. An. Contour-integral based quantum eigenvalue transformation: analysis and applications. [[arXiv:2601.11959](https://arxiv.org/abs/2601.11959)]
 * X. Guo, and D. An. Improved gap dependence in adiabatic state preparation by adaptive schedule. [[arXiv:2512.10329](https://arxiv.org/abs/2512.10329)]
 * C. Li, Z. Lai, D. An, J. Hu, and Z. Wen. Advancing Research via Human-AI Interactive Theorem Proving. [[arXiv:2512.09443](https://arxiv.org/abs/2512.09443)]
-* Z. Lai, D. An, J. Hu, and Z. Wen. A Grover-compatible manifold optimization algorithm for quantum search. [[arXiv:2512.08432](https://arxiv.org/abs/2512.08432)]
-* H. Nie, D. An, and Z. Wen. Quantum Alternating Direction Method of Multipliers for Semidefinite Programming. [[arXiv:2510.10056](https://arxiv.org/abs/2510.10056)]
 * D. An, P. C. S. Costa, and D. W. Berry. Large time-step discretisation of adiabatic quantum dynamics. [[arXiv:2509.00171](https://arxiv.org/abs/2509.00171)]
 * X. Huang, and D. An. Fourier transform-based linear combination of Hamiltonian simulation. [[arXiv:2508.19596](https://arxiv.org/abs/2508.19596)]
 * G. Yang, A. Onwunta, and D. An. Quantum differential equation solvers with low state preparation cost: eliminating the time dependence in dissipative equations. [[arXiv:2508.15170](https://arxiv.org/abs/2508.15170)]
@@ -35,6 +33,8 @@ Preprints
 
 Peer-reviewed papers
 ======
+* Z. Lai, D. An, J. Hu, and Z. Wen. A Grover-compatible manifold optimization algorithm for quantum search. Accepted by *SIAM Journal on Scientific Computing*. [[arXiv](https://arxiv.org/abs/2512.08432)]
+* H. Nie, D. An, and Z. Wen. Quantum Alternating Direction Method of Multipliers for Semidefinite Programming. *Quantum* 10, 2154 (2026). [[doi](https://doi.org/10.22331/q-2026-07-08-2154)][[arXiv](https://arxiv.org/abs/2510.10056)]
 * Z. Shang, D. An, and C. Shao. Exponential Lindbladian fast forwarding and exponential amplification of certain Gibbs state properties. *Reports on Progress in Physics* 89 (5), 057602 (2026). [[doi](https://doi.org/10.1088/1361-6633/ae6df7)][[arXiv](https://arxiv.org/abs/2509.09517)] (As featured in: [Progress In highlights](https://physicsworld.com/a/how-can-you-fast-forward-a-quantum-simulation/))
 * Y. Lu, Y. Huang, D. An, Q. Zhao, D. Lv, and X. Yuan. Digital adiabatic evolution is universally accurate. Accepted by *Nature Communications*. [[doi](https://doi.org/10.1038/s41467-026-73249-z)][[arXiv](https://arxiv.org/abs/2510.12237)]
 * M. E. S. Morales, L. Pira, P. Schleich, K. Koor, P. C. S. Costa, D. An, L. Lin, P. Rebentrost, and D. W. Berry. Quantum linear system solvers: A survey of algorithms and applications. *Reviews of Modern Physics* 98 (2), 025005 (2026). [[doi](https://doi.org/10.1103/x6gh-d8gh)][[arXiv](https://arxiv.org/abs/2411.02522)]
