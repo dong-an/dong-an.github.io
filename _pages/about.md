@@ -26,6 +26,8 @@ We are constantly recruiting undergraduate, PhD students and postdocs. Please em
 
 News
 ======
+* 2026/07, our paper "[A Grover-compatible manifold optimization algorithm for quantum search](https://arxiv.org/abs/2512.08432)" was accepted by SIAM Journal on Scientific Computing. 
+* 2026/07, our paper "[Quantum Alternating Direction Method of Multipliers for Semidefinite Programming](https://arxiv.org/abs/2510.10056)" was accepted by Quantum. 
 * 2026/05, our paper "[Exponential Lindbladian fast forwarding and exponential amplification of certain Gibbs state properties](https://arxiv.org/abs/2509.09517)" was accepted by Reports on Progress in Physics. 
 * 2026/05, our paper "[Digital adiabatic evolution is universally accurate](https://arxiv.org/abs/2510.12237)" was accepted by Nature Communications. 
 * 2026/02, I will serve as a PC member of [QSim 2026](https://qsimconference.org/). Talk and poster [submissions](https://qsimconference.org/submissions/) are welcome (talk submissions due on April 12, poster submissions due on July 10)
