@@ -26,6 +26,7 @@ We are constantly recruiting undergraduate, PhD students and postdocs. Please em
 
 News
 ======
+* 2026/08, our paper "[Achieving double-logarithmic precision dependence in optimization-based quantum unstructured search](https://arxiv.org/abs/2603.26039)" was accepted by Physical Review A. 
 * 2026/07, our paper "[A Grover-compatible manifold optimization algorithm for quantum search](https://arxiv.org/abs/2512.08432)" was accepted by SIAM Journal on Scientific Computing. 
 * 2026/07, our paper "[Quantum Alternating Direction Method of Multipliers for Semidefinite Programming](https://arxiv.org/abs/2510.10056)" was accepted by Quantum. 
 * 2026/05, our paper "[Exponential Lindbladian fast forwarding and exponential amplification of certain Gibbs state properties](https://arxiv.org/abs/2509.09517)" was accepted by Reports on Progress in Physics. 
