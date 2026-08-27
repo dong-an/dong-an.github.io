@@ -13,11 +13,12 @@ author_profile: true
 
 Preprints
 ======
+* Y. Li, and D. An. Fast-forwarding quantum algorithms for weakly nonlinear dissipative differential equations and beyond. [[arXiv:2608.25822](https://arxiv.org/abs/2608.25822)]
+* C. Zhao, Y. Li, and D. An. Quantum simulation of slow analytic time-dependent Hamiltonians. [[arXiv:2608.17653](https://arxiv.org/abs/2608.17653)]
 * B. Zhang, D. An, Z. Meng, Y. Yu, X. Xiao, Z. Lu, and Y. Yang. Quantum simulation of real-world nonlinear dynamics via Koopman method. [[arXiv:2607.07338](https://arxiv.org/abs/2607.07338)]
 * J. Aftab, D. An, and K. Trivisa. Linear combination of Hamiltonian simulation with commutator scaling. [[arXiv:2606.11475](https://arxiv.org/abs/2606.11475)]
 * H. Nie, Z. Lai, and D. An. Pauli-structured preconditioning for quantum linear system solvers. [[arXiv:2606.01733](https://arxiv.org/abs/2606.01733)]
 * P. C. S. Costa, A. M. Dalzell, D. An, and D. W. Berry. Constant Factor Analysis of Optimal Quantum Linear Solvers in Practice. [[arXiv:2604.22185](https://arxiv.org/abs/2604.22185)]
-* Z. Lai, D. An, J. Hu, and Z. Wen. Achieving double-logarithmic precision dependence in optimization-based quantum unstructured search. [[arXiv:2603.26039](https://arxiv.org/abs/2603.26039)]
 * X. Li, A. B. Catli, H. K. Lim, M. Pocrnic, D. An, J.-P. Liu, and N. Wiebe. Efficient Quantum Simulation for Nonlinear Stochastic Differential Equations. [[arXiv:2603.12398](https://arxiv.org/abs/2603.12398)]
 * Z. Lai, H. Nie, J. Wu, and D. An. Quantum circuit design from a retraction-based Riemannian optimization framework. [[arXiv:2602.20605](https://arxiv.org/abs/2602.20605)]
 * S. Liu, Y. Dong, D. An, and M. Y. Niu. Ensemble-Based Quantum Signal Processing for Error Mitigation. [[arXiv:2601.20073](https://arxiv.org/abs/2601.20073)]
@@ -33,10 +34,11 @@ Preprints
 
 Peer-reviewed papers
 ======
+* Z. Lai, D. An, J. Hu, and Z. Wen. Achieving double-logarithmic precision dependence in optimization-based quantum unstructured search. *Physical Review A* 114 (2), 022436 (2026). [[doi](https://doi.org/10.1103/7k6t-m463)][[arXiv](https://arxiv.org/abs/2603.26039)]
 * Z. Lai, D. An, J. Hu, and Z. Wen. A Grover-compatible manifold optimization algorithm for quantum search. Accepted by *SIAM Journal on Scientific Computing*. [[arXiv](https://arxiv.org/abs/2512.08432)]
 * H. Nie, D. An, and Z. Wen. Quantum Alternating Direction Method of Multipliers for Semidefinite Programming. *Quantum* 10, 2154 (2026). [[doi](https://doi.org/10.22331/q-2026-07-08-2154)][[arXiv](https://arxiv.org/abs/2510.10056)]
 * Z. Shang, D. An, and C. Shao. Exponential Lindbladian fast forwarding and exponential amplification of certain Gibbs state properties. *Reports on Progress in Physics* 89 (5), 057602 (2026). [[doi](https://doi.org/10.1088/1361-6633/ae6df7)][[arXiv](https://arxiv.org/abs/2509.09517)] (As featured in: [Progress In highlights](https://physicsworld.com/a/how-can-you-fast-forward-a-quantum-simulation/))
-* Y. Lu, Y. Huang, D. An, Q. Zhao, D. Lv, and X. Yuan. Digital adiabatic evolution is universally accurate. Accepted by *Nature Communications*. [[doi](https://doi.org/10.1038/s41467-026-73249-z)][[arXiv](https://arxiv.org/abs/2510.12237)]
+* Y. Lu, Y. Huang, D. An, Q. Zhao, D. Lv, and X. Yuan. Digital adiabatic evolution is universally accurate. *Nature Communications* 17, 6692 (2026). [[doi](https://doi.org/10.1038/s41467-026-73249-z)][[arXiv](https://arxiv.org/abs/2510.12237)]
 * M. E. S. Morales, L. Pira, P. Schleich, K. Koor, P. C. S. Costa, D. An, L. Lin, P. Rebentrost, and D. W. Berry. Quantum linear system solvers: A survey of algorithms and applications. *Reviews of Modern Physics* 98 (2), 025005 (2026). [[doi](https://doi.org/10.1103/x6gh-d8gh)][[arXiv](https://arxiv.org/abs/2411.02522)]
 * D. An, A. Onwunta, and G. Yang. Fast-forwarding quantum algorithms for linear dissipative differential equations. *Quantum* 10, 1986 (2026). [[doi](https://doi.org/10.22331/q-2026-01-27-1986)][[arXiv](https://arxiv.org/abs/2410.13189)]
 * Z. Lai, J. Hu, T. Ko, J. Wu, and D. An. Optimal interpolation-based coordinate descent method for parameterized quantum circuits. *Communications Physics* 9, Article number: 41 (2026). [[doi](https://doi.org/10.1038/s42005-025-02473-8)][[arXiv](https://arxiv.org/abs/2503.04620)]
