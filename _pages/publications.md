@@ -13,6 +13,7 @@ author_profile: true
 
 Preprints
 ======
+* D. An, Y. Li, P. Tang, and Y. Xiong. A quantum-assisted framework for PDE-based Bayesian inverse problems. [[arXiv:2608.27028](https://arxiv.org/abs/2608.27028)]
 * Y. Li, and D. An. Fast-forwarding quantum algorithms for weakly nonlinear dissipative differential equations and beyond. [[arXiv:2608.25822](https://arxiv.org/abs/2608.25822)]
 * C. Zhao, Y. Li, and D. An. Quantum simulation of slow analytic time-dependent Hamiltonians. [[arXiv:2608.17653](https://arxiv.org/abs/2608.17653)]
 * B. Zhang, D. An, Z. Meng, Y. Yu, X. Xiao, Z. Lu, and Y. Yang. Quantum simulation of real-world nonlinear dynamics via Koopman method. [[arXiv:2607.07338](https://arxiv.org/abs/2607.07338)]
