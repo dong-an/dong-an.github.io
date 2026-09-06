@@ -9,6 +9,7 @@ author_profile: true
 
 Lecturer
 ======
+* Advanced Mathematics (C), Peking University, Fall 2026 [[Website (in Chinese)](/AM2026Fall)]
 * Quantum algorithms for scientific computation, Peking University, Spring 2026 [[Website (in Chinese)](/QASC)]
 * Advanced Mathematics (B), Peking University, Fall 2025 [[Website (in Chinese)](/AM2025Fall)]
 * Quantum algorithms for scientific computation, Peking University, Spring 2025 [[Website (in Chinese)](/QASC2025Spring)]
