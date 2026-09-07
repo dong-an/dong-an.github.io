@@ -58,8 +58,8 @@ redirect_from:
 
 课件
 ======
-* 课程介绍
-* 第一章: 1.1, 1.2
+* [课程介绍](http://dong-an.github.io/files/AM_Section_0_2026.pdf)
+* 第一章: [1.1](http://dong-an.github.io/files/AM_Section_1_1_2026.pdf), [1.2](http://dong-an.github.io/files/AM_Section_1_2_2026.pdf)
 
 进度
 ======
