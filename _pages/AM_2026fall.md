@@ -59,5 +59,6 @@ redirect_from:
 课件
 ======
 * [课程介绍](http://dong-an.github.io/files/AM_Section_0_2026.pdf)
-* 第一章: [1.1](http://dong-an.github.io/files/AM_Section_1_1_2026.pdf), [1.2](http://dong-an.github.io/files/AM_Section_1_2_2026.pdf), [1.3](http://dong-an.github.io/files/AM_Section_1_3_2026.pdf), [1.4-1.5](http://dong-an.github.io/files/AM_Section_1_4_2026.pdf), 1.6
+* 第一章: [1.1](http://dong-an.github.io/files/AM_Section_1_1_2026.pdf), [1.2](http://dong-an.github.io/files/AM_Section_1_2_2026.pdf), [1.3](http://dong-an.github.io/files/AM_Section_1_3_2026.pdf), [1.4-1.5](http://dong-an.github.io/files/AM_Section_1_4_2026.pdf), [1.6](http://dong-an.github.io/files/AM_Section_1_6_2026.pdf)
+* 第二章：2.1, 2.2, 2.3, 2.4
 
