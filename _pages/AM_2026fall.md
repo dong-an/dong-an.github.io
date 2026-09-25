@@ -50,7 +50,7 @@ redirect_from:
 作业
 ======
 * [作业1](http://dong-an.github.io/files/AM_hw1_2026.pdf)，截止日期：第3周周四（09/24）
-* 作业2，截止日期：第6周周四（10/15）
+* [作业2](http://dong-an.github.io/files/AM_hw2_2026.pdf)，截止日期：第6周周四（10/15）
 * 作业3，截止日期：第8周周四（10/29）
 * 作业4，截止日期：第11周周四（11/19）
 * 作业5，截止日期：第13周周四（12/03）
@@ -60,5 +60,5 @@ redirect_from:
 ======
 * [课程介绍](http://dong-an.github.io/files/AM_Section_0_2026.pdf)
 * 第一章: [1.1](http://dong-an.github.io/files/AM_Section_1_1_2026.pdf), [1.2](http://dong-an.github.io/files/AM_Section_1_2_2026.pdf), [1.3](http://dong-an.github.io/files/AM_Section_1_3_2026.pdf), [1.4-1.5](http://dong-an.github.io/files/AM_Section_1_4_2026.pdf), [1.6](http://dong-an.github.io/files/AM_Section_1_6_2026.pdf)
-* 第二章：[2.1](http://dong-an.github.io/files/AM_Section_2_1_2026.pdf), 2.2, 2.3, 2.4
+* 第二章：[2.1](http://dong-an.github.io/files/AM_Section_2_1_2026.pdf), [2.2](http://dong-an.github.io/files/AM_Section_2_2_2026.pdf), 2.3, 2.4
 
