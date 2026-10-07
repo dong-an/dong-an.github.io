@@ -10,6 +10,7 @@ redirect_from:
 
 课程通知
 ======
+* 期中考试时间变更为第10周周四（11/12）随堂，考试范围为3.4节之前（含3.4节）
 
 上课时间地点
 ======
@@ -38,9 +39,9 @@ redirect_from:
 考试
 ======
 期中考试：
-* 考试时间：第9周周四（11/05）随堂（**此为暂定时间，后续可能会调整，请关注通知**）
+* 考试时间：第10周周四（11/12）随堂（**此为暂定时间，后续可能会调整，请关注通知**）
 * 考试地点：待定
-* 考察范围：待定
+* 考察范围：课本3.4节之前（含3.4节）
 
 期末考试：
 * 考试时间：考试周第一周周四（12/31）上午
@@ -60,5 +61,5 @@ redirect_from:
 ======
 * [课程介绍](http://dong-an.github.io/files/AM_Section_0_2026.pdf)
 * 第一章: [1.1](http://dong-an.github.io/files/AM_Section_1_1_2026.pdf), [1.2](http://dong-an.github.io/files/AM_Section_1_2_2026.pdf), [1.3](http://dong-an.github.io/files/AM_Section_1_3_2026.pdf), [1.4-1.5](http://dong-an.github.io/files/AM_Section_1_4_2026.pdf), [1.6](http://dong-an.github.io/files/AM_Section_1_6_2026.pdf)
-* 第二章: [2.1](http://dong-an.github.io/files/AM_Section_2_1_2026.pdf), [2.2](http://dong-an.github.io/files/AM_Section_2_2_2026.pdf), 2.3, 2.4
+* 第二章: [2.1](http://dong-an.github.io/files/AM_Section_2_1_2026.pdf), [2.2](http://dong-an.github.io/files/AM_Section_2_2_2026.pdf), [2.3](http://dong-an.github.io/files/AM_Section_2_3_2026.pdf), 2.4
 
