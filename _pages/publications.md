@@ -29,8 +29,6 @@ Preprints
 * S. Liu, Y. Dong, D. An, and M. Y. Niu. Ensemble-Based Quantum Signal Processing for Error Mitigation. [[arXiv:2601.20073](https://arxiv.org/abs/2601.20073)]
 * S. Jiang, and D. An. Contour-integral based quantum eigenvalue transformation: analysis and applications. [[arXiv:2601.11959](https://arxiv.org/abs/2601.11959)]
 * X. Guo, and D. An. Improved gap dependence in adiabatic state preparation by adaptive schedule. [[arXiv:2512.10329](https://arxiv.org/abs/2512.10329)]
-* C. Li, Z. Lai, D. An, J. Hu, and Z. Wen. Advancing Research via Human-AI Interactive Theorem Proving. [[arXiv:2512.09443](https://arxiv.org/abs/2512.09443)]
-* D. An, P. C. S. Costa, and D. W. Berry. Large time-step discretisation of adiabatic quantum dynamics. [[arXiv:2509.00171](https://arxiv.org/abs/2509.00171)]
 * X. Huang, and D. An. Fourier transform-based linear combination of Hamiltonian simulation. [[arXiv:2508.19596](https://arxiv.org/abs/2508.19596)]
 * G. Yang, A. Onwunta, and D. An. Quantum differential equation solvers with low state preparation cost: eliminating the time dependence in dissipative equations. [[arXiv:2508.15170](https://arxiv.org/abs/2508.15170)]
 * Y. Dong, D. An, and M. Y. Niu. Feedforward quantum singular value transformation. [[arXiv:2408.07803](https://arxiv.org/abs/2408.07803)]
@@ -39,6 +37,8 @@ Preprints
 
 Peer-reviewed papers
 ======
+* D. An, P. C. S. Costa, and D. W. Berry. Large time-step discretization of adiabatic quantum dynamics. Accepted by *Physical Review Research*. [[doi](https://doi.org/10.1103/kh4h-m8z9)][[arXiv](https://arxiv.org/abs/2509.00171)]
+* C. Li, Z. Lai, D. An, J. Hu, and Z. Wen. A Human-AI Collaborative Workflow for Mathematical Discovery: A Case Study in Grover-Compatible Riemannian Optimization. *Journal of Scientific Computing* 109 (3), 74 (2026). [[doi](https://doi.org/10.1007/s10915-026-03493-4)][[arXiv](https://arxiv.org/abs/2512.09443)]
 * Z. Lai, D. An, J. Hu, and Z. Wen. Achieving double-logarithmic precision dependence in optimization-based quantum unstructured search. *Physical Review A* 114 (2), 022436 (2026). [[doi](https://doi.org/10.1103/7k6t-m463)][[arXiv](https://arxiv.org/abs/2603.26039)]
 * Z. Lai, D. An, J. Hu, and Z. Wen. A Grover-compatible manifold optimization algorithm for quantum search. Accepted by *SIAM Journal on Scientific Computing*. [[arXiv](https://arxiv.org/abs/2512.08432)]
 * H. Nie, D. An, and Z. Wen. Quantum Alternating Direction Method of Multipliers for Semidefinite Programming. *Quantum* 10, 2154 (2026). [[doi](https://doi.org/10.22331/q-2026-07-08-2154)][[arXiv](https://arxiv.org/abs/2510.10056)]
