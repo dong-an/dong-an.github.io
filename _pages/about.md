@@ -26,6 +26,9 @@ We are constantly recruiting undergraduate, PhD students and postdocs. Please em
 
 News
 ======
+* 2026/10, I will serve as a PC member of [QIP 2027](https://qipconference.org/2027/). [Submissions](https://qipconference.org/2027/call/) are welcome (Unfortunately talk submission due date (October 5) has passed. Poster submissions due on December 4)
+* 2026/10, our paper "[Large time-step discretization of adiabatic quantum dynamics](https://arxiv.org/abs/2509.00171)" was accepted by Physical Review Research. 
+* 2026/09, our paper "[A Human-AI Collaborative Workflow for Mathematical Discovery: A Case Study in Grover-Compatible Riemannian Optimization](https://arxiv.org/abs/2512.09443)" was accepted by Journal of Scientific Computing. 
 * 2026/08, our paper "[Achieving double-logarithmic precision dependence in optimization-based quantum unstructured search](https://arxiv.org/abs/2603.26039)" was accepted by Physical Review A. 
 * 2026/07, our paper "[A Grover-compatible manifold optimization algorithm for quantum search](https://arxiv.org/abs/2512.08432)" was accepted by SIAM Journal on Scientific Computing. 
 * 2026/07, our paper "[Quantum Alternating Direction Method of Multipliers for Semidefinite Programming](https://arxiv.org/abs/2510.10056)" was accepted by Quantum. 
