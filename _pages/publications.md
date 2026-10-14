@@ -13,6 +13,10 @@ author_profile: true
 
 Preprints
 ======
+* P. C. S. Costa, M. E. S. Morales, D. An, and K. Kristjuhan. Adiabatic tracking and optimal schedules for classical and quantum Gibbs-state preparation. [[arXiv:2610.06268](https://arxiv.org/abs/2610.06268)]
+* D. An, D. Dong, C. Shao, Y. Zhang, and C. Zhao. Transducer-based linear combination of unitaries: theory and applications. [[arXiv:2609.40073](https://arxiv.org/abs/2609.40073)]
+* S. Jiang, and D. An. Contour-integral and Fourier transform based multivariable quantum eigenvalue transformation for commuting matrices. [[arXiv:2609.32262](https://arxiv.org/abs/2609.32262)]
+* K. Zhou, D. An, and J. Liu. Learned-projector QAOA for hierarchical optimization. [[arXiv:2609.28888](https://arxiv.org/abs/2609.28888)]
 * D. An, Y. Li, P. Tang, and Y. Xiong. A quantum-assisted framework for PDE-based Bayesian inverse problems. [[arXiv:2608.27028](https://arxiv.org/abs/2608.27028)]
 * Y. Li, and D. An. Fast-forwarding quantum algorithms for weakly nonlinear dissipative differential equations and beyond. [[arXiv:2608.25822](https://arxiv.org/abs/2608.25822)]
 * C. Zhao, Y. Li, and D. An. Quantum simulation of slow analytic time-dependent Hamiltonians. [[arXiv:2608.17653](https://arxiv.org/abs/2608.17653)]
