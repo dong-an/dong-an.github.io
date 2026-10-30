@@ -32,12 +32,12 @@ Preprints
 * X. Huang, and D. An. Fourier transform-based linear combination of Hamiltonian simulation. [[arXiv:2508.19596](https://arxiv.org/abs/2508.19596)]
 * G. Yang, A. Onwunta, and D. An. Quantum differential equation solvers with low state preparation cost: eliminating the time dependence in dissipative equations. [[arXiv:2508.15170](https://arxiv.org/abs/2508.15170)]
 * Y. Dong, D. An, and M. Y. Niu. Feedforward quantum singular value transformation. [[arXiv:2408.07803](https://arxiv.org/abs/2408.07803)]
-* J. Aftab, D. An, and K. Trivisa. Multi-product Hamiltonian simulation with explicit commutator scaling. [[arXiv:2403.08922](https://arxiv.org/abs/2403.08922)] (TQC talk 2024)
 
 
 Peer-reviewed papers
 ======
-* D. An, P. C. S. Costa, and D. W. Berry. Large time-step discretization of adiabatic quantum dynamics. Accepted by *Physical Review Research*. [[doi](https://doi.org/10.1103/kh4h-m8z9)][[arXiv](https://arxiv.org/abs/2509.00171)]
+* J. Aftab, D. An, and K. Trivisa. Multi-product Hamiltonian simulation with explicit commutator scaling. Accepted by *Communications in Mathematical Physics*. [[arXiv](https://arxiv.org/abs/2403.08922)] (TQC talk 2024)
+* D. An, P. C. S. Costa, and D. W. Berry. Large time-step discretization of adiabatic quantum dynamics. *Physical Review Research* 8, 043098 (2026). [[doi](https://doi.org/10.1103/kh4h-m8z9)][[arXiv](https://arxiv.org/abs/2509.00171)]
 * C. Li, Z. Lai, D. An, J. Hu, and Z. Wen. A Human-AI Collaborative Workflow for Mathematical Discovery: A Case Study in Grover-Compatible Riemannian Optimization. *Journal of Scientific Computing* 109 (3), 74 (2026). [[doi](https://doi.org/10.1007/s10915-026-03493-4)][[arXiv](https://arxiv.org/abs/2512.09443)]
 * Z. Lai, D. An, J. Hu, and Z. Wen. Achieving double-logarithmic precision dependence in optimization-based quantum unstructured search. *Physical Review A* 114 (2), 022436 (2026). [[doi](https://doi.org/10.1103/7k6t-m463)][[arXiv](https://arxiv.org/abs/2603.26039)]
 * Z. Lai, D. An, J. Hu, and Z. Wen. A Grover-compatible manifold optimization algorithm for quantum search. Accepted by *SIAM Journal on Scientific Computing*. [[arXiv](https://arxiv.org/abs/2512.08432)]
