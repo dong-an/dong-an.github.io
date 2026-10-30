@@ -26,6 +26,7 @@ We are constantly recruiting undergraduate, PhD students and postdocs. Please em
 
 News
 ======
+* 2026/10, our paper "[Multi-product Hamiltonian simulation with explicit commutator scaling](https://arxiv.org/abs/2403.08922)" was accepted by Communications in Mathematical Physics. 
 * 2026/10, I will serve as a PC member of [QIP 2027](https://qipconference.org/2027/). [Submissions](https://qipconference.org/2027/call/) are welcome (Unfortunately talk submission due date (October 5) has passed. Poster submissions due on December 4)
 * 2026/10, our paper "[Large time-step discretization of adiabatic quantum dynamics](https://arxiv.org/abs/2509.00171)" was accepted by Physical Review Research. 
 * 2026/09, our paper "[A Human-AI Collaborative Workflow for Mathematical Discovery: A Case Study in Grover-Compatible Riemannian Optimization](https://arxiv.org/abs/2512.09443)" was accepted by Journal of Scientific Computing. 
