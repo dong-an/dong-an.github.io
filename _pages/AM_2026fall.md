@@ -55,7 +55,7 @@ redirect_from:
 * [作业1](http://dong-an.github.io/files/AM_hw1_2026.pdf)，截止日期：第3周周四（09/24）
 * [作业2](http://dong-an.github.io/files/AM_hw2_2026.pdf)，截止日期：第6周周四（10/15）
 * [作业3](http://dong-an.github.io/files/AM_hw3_2026.pdf)，截止日期：第8周周四（10/29）
-* 作业4，截止日期：第11周周四（11/19）
+* [作业4](http://dong-an.github.io/files/AM_hw4_2026.pdf)，截止日期：第11周周四（11/19）
 * 作业5，截止日期：第13周周四（12/03）
 * 作业6，截止日期：第15周周四（12/17）
 
